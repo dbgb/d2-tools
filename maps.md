@@ -96,7 +96,7 @@
 
 ## Act 1
 
-![Act 1 Overview](/img/d2_maps-01-act-1.png)
+![Act 1 Overview](/assets/img/d2_maps-01-act-1.png)
 
 ### 1. Rogue Encampment ⚪ ⚒️
 
@@ -182,7 +182,7 @@
 
 ## Act 2
 
-![Act 2 Overview](/img/d2_maps-02-act-2.png)
+![Act 2 Overview](/assets/img/d2_maps-02-act-2.png)
 
 ### 1. Lut Gholein ⚪ ⚒️
 
@@ -254,7 +254,7 @@
 
 ## Act 3
 
-![Act 3 Overview](/img/d2_maps-03-act-3.png)
+![Act 3 Overview](/assets/img/d2_maps-03-act-3.png)
 
 ### 1. Kurast Docks ⚪ ⚒️
 
@@ -315,7 +315,7 @@
 
 ## Act 4
 
-![Act 4 Overview](/img/d2_maps-04-act-4.png)
+![Act 4 Overview](/assets/img/d2_maps-04-act-4.png)
 
 ### 1. Pandemonium Fort ⚪ ⚒️
 
@@ -343,7 +343,7 @@
 
 ## Act 5
 
-![Act 5 Overview](/img/d2_maps-05-act-5.png)
+![Act 5 Overview](/assets/img/d2_maps-05-act-5.png)
 
 ### 1. Harrogath ⚪ ⚒️
 
