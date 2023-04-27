@@ -5,8 +5,8 @@
 - [Preface](#preface)
 - [Map Symbols](#map-symbols)
   - [Points of Interest](#points-of-interest)
-  - [Entrances](#entrances)
-  - [Exits](#exits)
+  - [Locations](#locations)
+  - [Orientation](#orientation)
 - [Act 1](#act-1)
   - [1. Rogue Encampment ⚪ ⚒️](#1-rogue-encampment--️)
   - [2. Blood Moor](#2-blood-moor)
@@ -82,7 +82,7 @@ information contained within the above sources.
 
 ### Points of Interest
 
-| Point of Interest  | Symbol |
+| Object             | Symbol |
 | ------------------ | :----: |
 | Act Boss           |   💪    |
 | Chest              |   💰    |
@@ -91,19 +91,19 @@ information contained within the above sources.
 | Waypoint           |   ⚪    |
 | Waypoint (Level 2) |   🟡    |
 
-### Entrances
+### Locations
 
-| Location    | Symbol |
-| ----------- | :----: |
-| Corner      |   📐    |
-| Edge        |   📏    |
-| Path/Direct |   🏃    |
-| Cave        |   🟤    |
-| Portal      |   🔴    |
-| Random      |   ❓    |
-| Variable    |   ❔    |
+| Type               | Symbol |
+| ------------------ | :----: |
+| Corner             |   📐    |
+| Edge               |   📏    |
+| Path / Direct      |   🏃    |
+| Dungeon            |   🟢    |
+| Portal             |   🔴    |
+| Random Placement   |   ❓    |
+| Variable Placement |   ❔    |
 
-### Exits
+### Orientation
 
 | Direction | Symbol |
 | --------- | :----: |
@@ -111,8 +111,8 @@ information contained within the above sources.
 | Right     |   ➡️    |
 | Straight  |   ⬆️    |
 
-> N.B. Exit directions refer to the direction of travel _away_ from the map
-> entrance tile, unless specified otherwise.
+> N.B. Directions refer to the direction of travel _away_ from the current map
+> entrance tile \- unless specified otherwise.
 
 ---
 
@@ -127,7 +127,7 @@ information contained within the above sources.
 
 ### 2. Blood Moor
 
-- to Den of Evil ⚔️ 🟤 🏃
+- to Den of Evil ⚔️ 🟢 🏃
 - to Cold Plains 🏃
 
 ### 3. Cold Plains ⚪
@@ -136,7 +136,7 @@ information contained within the above sources.
 - to Burial Grounds ⚔️ 📐
   - Crypt ⬅️ 💰
   - Mausoleum ⬅️ 💰
-- to Cave 🟤 🏃
+- to Cave 🟢 🏃
   - to L2 ⬅️
     - L2 💰
 - to Stony Field 📏
@@ -144,7 +144,7 @@ information contained within the above sources.
 ### 4. Stony Field ⚪
 
 - to Tristram ⚔️ 🔴
-- to Underground Passage 📏 or 🟤
+- to Underground Passage 📏 or 🟢
 
 ### 5. Underground Passage
 
@@ -162,7 +162,7 @@ information contained within the above sources.
 - to Forgotten Tower 📏 ❔
   - to L2/L3/L4/L5 ⬅️
     - L5 ⚔️ (_The Countess_)
-- to Hole 🟤 ❓
+- to Hole 🟢 ❓
   - to L2 ⬅️
     - L2 💰
 - to Tamoe Highland 🏃 ❔ (Not bottom)
@@ -188,7 +188,7 @@ information contained within the above sources.
 
 ### 11. Jail ⚪
 
-- WP ⬅️
+- ⚪ ⬅️
 - to L2 ⬆️, ⬅️ of WP
   - to L3 ⬆️
     - to Inner Cloister ⬅️
@@ -217,67 +217,77 @@ information contained within the above sources.
 ### 1. Lut Gholein ⚪ ⚒️
 
 - to Harem 🏃
-- to Sewer 🟡 ⬅️
+- to Sewer 🟡 🏃 (North and South)
+  - 🟡 ⬅️
   - to L2 (Usually nearest to south entrance)
     - to L3 ⬆️, ⬅️ of WP
-    - L3 ⚔️ 💰 (_Radament's Lair_)
+      - L3 ⚔️ 💰 (_Radament's Lair_)
 - to Rocky Waste 🏃
 
 ### 2. Rocky Waste
 
-- to Stony Tomb
-  - to L2
-- to Dry Hills 📐
+- to Stony Tomb 🟢 ❓
+  - to L2 ⬅️
+    - L2 💰 ⬅️
+- to Dry Hills 📐 (Not on same side as map entrance)
 
 ### 3. Dry Hills ⚪
 
-- to Halls of the Dead 🟡
+- to Halls of the Dead 🟡 ❓
+  - 🟡 ⬆️
   - to L2 ⬅️
-    - to L3
-      - L3 ⬅️
-- to Far Oasis
+    - to L3 ⬅️, ➡️ of WP
+      - L3 ⬅️ ⚔️ (_Horadric Cube_)
+- to Far Oasis 📐 (Not on same side as map entrance)
 
 ### 4. Far Oasis ⚪
 
-- to Maggot Lair
+- to Maggot Lair 🟢 ❓
   - to L2 ➡️
     - to L3 ➡️
-      - L3 ⬆️
-- to Lost City
+      - L3 ⬆️ ⚔️ (_Horadric Shaft_)
+- to Lost City 📐 (Not on same side as map entrance)
 
 ### 5. Lost City ⚪
 
-- to Ancient Tunnels
-- to Valley of Snakes
+- to Ancient Tunnels 🟢 ❓
+  - L1 💰 ⬅️
+- to Valley of Snakes 📐(Not on bottom)
 
 ### 6. Valley of Snakes
 
-- to Claw Viper Temple
+- to Claw Viper Temple 🏃
   - to L2 ⬅️
+    - L2 ⚔️ (_Amulet of the Viper & Tainted Sun_)
 
 ### 7. Harem
 
-- to L2
-  - to Palace Cellar
+- to L2 🏃
+  - to Palace Cellar 📐
 
 ### 8. Palace Cellar ⚪
 
-- to L2
-  - to L3
-    - to Arcane Sanctuary
+- ⚪ (Near middle)
+- to L2 📐 (Top or Bottom)
+  - to L3 📐 (Top or Bottom)
+    - to Arcane Sanctuary 🏃 (Middle)
 
 ### 9. Arcane Sanctuary ⚪
 
-- to Canyon of the Magi
+- to Canyon of the Magi 🔴 ❓ ⚔️ (_The Summoner_)
 
 ### 10. Canyon of the Magi ⚪
 
-- to Tal Rasha's Tomb
-- to Tal Rasha's Tomb (False)
+- to False Tomb 🏃
+  - L1 💰 ⬅️
+- to Tal Rasha's Tomb 🏃 (Refer to quest log symbol for real tomb)
 
 ### 11. Tal Rasha's Tomb
 
-- to Tal Rasha's Chamber ⬅️
+- _Horadric Shaft, Amulet of the Viper -> Horadric Cube = Horadric Staff_
+
+- ⬅️ ⚔️ (_Horadric Staff into Orifice_)
+  - to Tal Rasha's Chamber ⬅️
 
 ### 12. Tal Rasha's Chamber
 
