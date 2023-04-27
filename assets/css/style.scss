@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 
-$breakpoint-mobile: 500px;
+$breakpoint-tablet: 900px;
 
 body {
   .wrapper {
@@ -60,7 +60,7 @@ section {
     width: 100%;
   }
 
-  @media (min-width: $breakpoint-mobile) {
+  @media (min-width: $breakpoint-tablet) {
     table {
       width: 20%;
     }
