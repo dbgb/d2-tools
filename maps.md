@@ -4,9 +4,9 @@
 
 - [Preface](#preface)
 - [Map Symbols](#map-symbols)
+  - [Points of Interest](#points-of-interest)
   - [Entrances](#entrances)
   - [Exits](#exits)
-  - [Points of Interest](#points-of-interest)
 - [Act 1](#act-1)
   - [1. Rogue Encampment ⚪ ⚒️](#1-rogue-encampment--️)
   - [2. Blood Moor](#2-blood-moor)
@@ -80,33 +80,39 @@ information contained within the above sources.
 
 ## Map Symbols
 
+### Points of Interest
+
+| Point of Interest  | Symbol |
+| ------------------ | :----: |
+| Act Boss           |   💪    |
+| Chest              |   💰    |
+| Quest              |   ⚔️    |
+| Safe Zone          |   ⚒️    |
+| Waypoint           |   ⚪    |
+| Waypoint (Level 2) |   🟡    |
+
 ### Entrances
 
-- Corner: 📐
-- Edge: 📏
-- Direct/Path: 🏃
-- Cave: 🟤
-- Portal: 🔴
-- Random: ❓
-- Variable: ❔
+| Location    | Symbol |
+| ----------- | :----: |
+| Corner      |   📐    |
+| Edge        |   📏    |
+| Path/Direct |   🏃    |
+| Cave        |   🟤    |
+| Portal      |   🔴    |
+| Random      |   ❓    |
+| Variable    |   ❔    |
 
 ### Exits
 
-> Note:
-> All exit directions refer to the direction of travel _away_ from the map
+| Direction | Symbol |
+| --------- | :----: |
+| Left      |   ⬅️    |
+| Right     |   ➡️    |
+| Straight  |   ⬆️    |
+
+> N.B. Exit directions refer to the direction of travel _away_ from the map
 > entrance tile, unless specified otherwise.
-
-- Left: ⬅️
-- Right: ➡️
-- Straight: ⬆️
-
-### Points of Interest
-
-- Act Boss: 💪
-- Quest: ⚔️
-- Safe Zone: ⚒️
-- Waypoint: ⚪
-- Waypoint (Level 2): 🟡
 
 ---
 
@@ -116,85 +122,91 @@ information contained within the above sources.
 
 ### 1. Rogue Encampment ⚪ ⚒️
 
-- to Secret Cow Level: 🔴
+- to Secret Cow Level 🔴
 - to Blood Moor 🏃
 
 ### 2. Blood Moor
 
-- to Den of Evil: 🏃
+- to Den of Evil ⚔️ 🟤 🏃
 - to Cold Plains 🏃
 
 ### 3. Cold Plains ⚪
 
-- to Burial Grounds: ⚔️ 📐
-  - Crypt: ⬅️
-  - Mausoleum: ⬅️
-- to Cave: 🟤 🏃
-  - to L2: ⬅️
-- to Stony Field: 📏
+- _Moldy Tome_ ⚔️ ❓
+- to Burial Grounds ⚔️ 📐
+  - Crypt ⬅️ 💰
+  - Mausoleum ⬅️ 💰
+- to Cave 🟤 🏃
+  - to L2 ⬅️
+    - L2 💰
+- to Stony Field 📏
 
 ### 4. Stony Field ⚪
 
-- to Tristram: 🔴
-- to Underground Passage: 📏 or 🟤
+- to Tristram ⚔️ 🔴
+- to Underground Passage 📏 or 🟤
 
 ### 5. Underground Passage
 
-- to L2: ⬅️
-- to Dark Wood: ⬆️
+- to L2 ⬅️
+  - L2 💰
+- to Dark Wood ⬆️
 
 ### 6. Dark Wood ⚪
 
-- to Black Marsh: 🏃
+- _Tree of Inifuss_ ⚔️ ❓
+- to Black Marsh 🏃
 
 ### 7. Black Marsh ⚪
 
-- to Forgotten Tower: 📏 ❔
-  - to L2/L3/L4/L5: ⬅️
-  - L5: ⚔️ (The Countess)
-- to Hole: 🟤 ❓
-  - to L2: ⬅️
-- to Tamoe Highland: ❔ (Not bottom left)
+- to Forgotten Tower 📏 ❔
+  - to L2/L3/L4/L5 ⬅️
+    - L5 ⚔️ (_The Countess_)
+- to Hole 🟤 ❓
+  - to L2 ⬅️
+    - L2 💰
+- to Tamoe Highland 🏃 ❔ (Not bottom)
 
 ### 8. Tamoe Highland
 
-- to The Pit: 🏃 from Outer Cloister WP
-  - to L2: ⬅️
-- to Outer Cloister: 📏 (Top)
+- to The Pit 🏃 from Outer Cloister WP
+  - to L2 ⬅️
+    - L2 💰
+- to Outer Cloister 📏 (Top)
 
 ### 9. Outer Cloister ⚪
 
-- to Barracks: ❔
-  - if Central Cross: ⬆️
-  - if Left WP: ➡️
-  - if Right WP: ⬅️
+- to Barracks ❔
+  - if Central Cross ⬆️
+  - if Left WP ➡️
+  - if Right WP ⬅️
 
 ### 10. Barracks
 
-- to Horadric Malus: ⚔️ ⬆️ or ⬅️
-- to Jail: ⬆️ or ⬅️
+- _Horadric Malus_ ⚔️ ⬆️ or ⬅️
+- to Jail ⬆️ or ⬅️
 
 ### 11. Jail ⚪
 
-- WP: ⬅️
-- to L2: ⬆️, ⬅️ of WP
-- to L3: ⬆️
-- to Inner Cloister: ⬅️
+- WP ⬅️
+- to L2 ⬆️, ⬅️ of WP
+  - to L3 ⬆️
+    - to Inner Cloister ⬅️
 
 ### 12. Inner Cloister ⚪
 
-- to Cathedral: 📏 (Top)
+- to Cathedral 📏 (Top)
 
 ### 13. Cathedral
 
-- to Catacombs: ➡️
+- to Catacombs ➡️
 
 ### 14. Catacombs 🟡
 
-- to L2: ❓
-- to L3: ➡️ of WP
-- to L4: ❓
-- L4: 💪 ⚔️ (Andariel)
+- to L2 ❓
+  - to L3 ➡️ of WP
+    - to L4 ❓
+      - L4 ⚔️ 💪 (_Andariel_)
 
 ---
 
@@ -204,32 +216,33 @@ information contained within the above sources.
 
 ### 1. Lut Gholein ⚪ ⚒️
 
-- to Harem
-- to Sewer 🟡
-  - to L2
-  - to L3
-- to Rocky Waste
+- to Harem 🏃
+- to Sewer 🟡 ⬅️
+  - to L2 (Usually nearest to south entrance)
+    - to L3 ⬆️, ⬅️ of WP
+    - L3 ⚔️ 💰 (_Radament's Lair_)
+- to Rocky Waste 🏃
 
 ### 2. Rocky Waste
 
 - to Stony Tomb
   - to L2
-- to Dry Hills
+- to Dry Hills 📐
 
 ### 3. Dry Hills ⚪
 
 - to Halls of the Dead 🟡
-  - to L2: ⬅️
-  - to L3:
-  - L3: ⬅️
+  - to L2 ⬅️
+    - to L3
+      - L3 ⬅️
 - to Far Oasis
 
 ### 4. Far Oasis ⚪
 
 - to Maggot Lair
-  - to L2: ➡️
-  - to L3: ➡️
-  - L3: ⬆️
+  - to L2 ➡️
+    - to L3 ➡️
+      - L3 ⬆️
 - to Lost City
 
 ### 5. Lost City ⚪
@@ -240,7 +253,7 @@ information contained within the above sources.
 ### 6. Valley of Snakes
 
 - to Claw Viper Temple
-  - to L2: ⬅️
+  - to L2 ⬅️
 
 ### 7. Harem
 
@@ -250,8 +263,8 @@ information contained within the above sources.
 ### 8. Palace Cellar ⚪
 
 - to L2
-- to L3
-- to Arcane Sanctuary
+  - to L3
+    - to Arcane Sanctuary
 
 ### 9. Arcane Sanctuary ⚪
 
@@ -264,11 +277,11 @@ information contained within the above sources.
 
 ### 11. Tal Rasha's Tomb
 
-- to Tal Rasha's Chamber: ⬅️
+- to Tal Rasha's Chamber ⬅️
 
 ### 12. Tal Rasha's Chamber
 
-- 💪 ⚔️ (Duriel)
+- ⚔️ 💪 (_Duriel_)
 
 ---
 
@@ -289,13 +302,13 @@ information contained within the above sources.
 ### 3. Flayer Jungle ⚪
 
 - to Flayer Dungeon
-  - to L2: ⬅️
-  - to L3: ⬅️
-  - L3:
+  - to L2 ⬅️
+    - to L3 ⬅️
+      - L3
 - to Swampy Pit
-  - to L2: ⬅️
-  - to L3: ⬅️
-  - L3:
+  - to L2 ⬅️
+    - to L3 ⬅️
+      - L3
 - to Lower Kurast
 
 ### 4. Lower Kurast ⚪
@@ -307,7 +320,7 @@ information contained within the above sources.
 - to Disused Fane
 - to Ruined Temple
 - to Sewers
-  - to L2: ➡️ of Chest
+  - to L2 ➡️ of Chest
   - to Upper Kurast
 - to Upper Kurast
 
@@ -329,9 +342,9 @@ information contained within the above sources.
 
 ### 9. Durance of Hate 🟡
 
-- to L2: ⬅️
-- to L3: ⬆️, ⬅️ of WP
-- L3: 💪 ⚔️ (Mephisto)
+- to L2 ⬅️
+- to L3 ⬆️, ⬅️ of WP
+- L3 ⚔️ 💪 (_Mephisto_)
 
 ---
 
@@ -361,7 +374,7 @@ information contained within the above sources.
 
 ### 6. Chaos Sanctuary
 
-- 💪 ⚔️ (Diablo)
+- ⚔️ 💪 (_Diablo_)
 
 ---
 
@@ -375,7 +388,7 @@ information contained within the above sources.
   - to Halls of Anguish
   - to Halls of Pain ⚪
   - to Halls of Vaught
-- to Uber Bosses: 🔴
+- to Uber Bosses 🔴
 - to Bloody Foothills
 
 ### 2. Bloody Foothills
@@ -395,12 +408,12 @@ information contained within the above sources.
 ### 5. Crystalline Passage ⚪
 
 - to Frozen River
-- to Glacial Trail: ⬅️
+- to Glacial Trail ⬅️
 
 ### 6. Glacial Trail ⚪
 
 - to Drifter Cavern
-- to Frozen Tundra: ⬅️
+- to Frozen Tundra ⬅️
 
 ### 7. Frozen Tundra ⚪
 
@@ -409,8 +422,8 @@ information contained within the above sources.
 
 ### 8. Ancient's Way ⚪
 
-- to Icy Cellar: ⬆️, ➡️ of WP
-- to Arreat Summit: ⬅️, ⬆️ of WP
+- to Icy Cellar ⬆️, ➡️ of WP
+- to Arreat Summit ⬅️, ⬆️ of WP
 
 ### 9. Arreat Summit
 
@@ -418,14 +431,14 @@ information contained within the above sources.
 
 ### 10. Worldstone Keep 🟡
 
-- to L2:❓
-- to L3: ➡️ of WP
-- to Throne of Destruction: ❓
+- to L2 ❓
+- to L3 ➡️ of WP
+- to Throne of Destruction ❓
 
 ### 11. Throne of Destruction
 
 - to Worldstone Chamber
-  - 💪 ⚔️ (Baal)
+  - ⚔️ 💪 (_Baal_)
 
 ---
 
