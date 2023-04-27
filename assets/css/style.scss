@@ -45,15 +45,6 @@ section {
     margin: 0 0 15px;
   }
 
-  table {
-    margin: 0 auto;
-    width: 100%;
-  }
-
-  @media (min-width: $breakpoint-mobile) {
-    width: 20%;
-  }
-
   menu,
   ol,
   ul {
@@ -62,5 +53,16 @@ section {
 
   ul {
     list-style-image: none;
+  }
+
+  table {
+    margin: 0 auto;
+    width: 100%;
+  }
+
+  @media (min-width: $breakpoint-mobile) {
+    table {
+      width: 20%;
+    }
   }
 }
