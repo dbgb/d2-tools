@@ -180,6 +180,8 @@
 - to L4: ❓
 - L4: 💪 ⚔️ (Andariel)
 
+---
+
 ## Act 2
 
 ![Act 2 Overview](/assets/img/d2_maps-02-act-2.png)
@@ -252,6 +254,8 @@
 
 - 💪 ⚔️ (Duriel)
 
+---
+
 ## Act 3
 
 ![Act 3 Overview](/assets/img/d2_maps-03-act-3.png)
@@ -313,6 +317,8 @@
 - to L3: ⬆️, ⬅️ of WP
 - L3: 💪 ⚔️ (Mephisto)
 
+---
+
 ## Act 4
 
 ![Act 4 Overview](/assets/img/d2_maps-04-act-4.png)
@@ -340,6 +346,8 @@
 ### 6. Chaos Sanctuary
 
 - 💪 ⚔️ (Diablo)
+
+---
 
 ## Act 5
 
