@@ -3,10 +3,16 @@
 
 @import "{{ site.theme }}";
 
+$breakpoint-mobile: 500px;
+
 body {
   .wrapper {
     max-width: 70vw;
   }
+}
+
+blockquote {
+  margin: 20px 0px;
 }
 
 section {
@@ -34,10 +40,18 @@ section {
   p,
   ul,
   ol,
-  table,
   pre,
   dl {
     margin: 0 0 15px;
+  }
+
+  table {
+    margin: 0 auto;
+    width: 100%;
+  }
+
+  @media (min-width: $breakpoint-mobile) {
+    width: 20%;
   }
 
   menu,
