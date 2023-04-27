@@ -2,7 +2,8 @@
 
 ## Table of Contents <!-- omit in toc -->
 
-- [Key](#key)
+- [Preface](#preface)
+- [Map Symbols](#map-symbols)
   - [Entrances](#entrances)
   - [Exits](#exits)
   - [Points of Interest](#points-of-interest)
@@ -66,7 +67,18 @@
 
 ---
 
-## Key
+## Preface
+
+A comprehensive written guide on how to visualize D2 tiles and maps can be found
+[here][1].
+
+Detailed video guides discussing D2 map strategies can be found [here][2] and
+[here][3].
+
+The following material aims to provide an _at a glance_ reference to the dense
+information contained within the above sources.
+
+## Map Symbols
 
 ### Entrances
 
@@ -80,6 +92,10 @@
 
 ### Exits
 
+> Note:
+> All exit directions refer to the direction of travel _away_ from the map
+> entrance tile, unless specified otherwise.
+
 - Left: ⬅️
 - Right: ➡️
 - Straight: ⬆️
@@ -90,7 +106,7 @@
 - Quest: ⚔️
 - Safe Zone: ⚒️
 - Waypoint: ⚪
-- Waypoint (L2): 🟡
+- Waypoint (Level 2): 🟡
 
 ---
 
@@ -115,8 +131,8 @@
   - Mausoleum: ⬅️
 - to Cave: 🟤 🏃
   - to L2: ⬅️
-- to Stony Field:  📏
-  
+- to Stony Field: 📏
+
 ### 4. Stony Field ⚪
 
 - to Tristram: 🔴
@@ -157,7 +173,7 @@
 
 - to Horadric Malus: ⚔️ ⬆️ or ⬅️
 - to Jail: ⬆️ or ⬅️
-  
+
 ### 11. Jail ⚪
 
 - WP: ⬅️
@@ -413,10 +429,6 @@
 
 ---
 
-References:
-
-[MrLlama](https://www.youtube.com/watch?v=iaAmrldC3c4)
-
-[WithNoFiller](https://www.youtube.com/watch?v=J1EFUYGk4CA)
-
-[teo1904](https://maxroll.gg/d2/resources/map-reading)
+[1]: https://maxroll.gg/d2/resources/map-reading "How to Read D2 Maps: Teo1904"
+[2]: https://www.youtube.com/watch?v=iaAmrldC3c4 "D2 Map Guide: MrLlama"
+[3]: https://www.youtube.com/watch?v=J1EFUYGk4CA "D2 Map Guide: WithNoFiller"
