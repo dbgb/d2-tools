@@ -5,12 +5,13 @@
 
 body {
   .wrapper {
-    max-width: 1000px;
+    max-width: 70vw;
   }
 }
 
 section {
-  max-width: 1000px;
+  max-width: 100%;
+  padding: 0;
 
   #title {
     margin-bottom: 5px;
@@ -20,10 +21,16 @@ section {
     margin-bottom: 20px;
   }
 
-  h1, h2, h3 {
+  h1,
+  h2,
+  h3 {
     line-height: 1.6;
   }
-  
+
+  h3 {
+    font-size: 20px;
+  }
+
   p,
   ul,
   ol,
@@ -37,5 +44,9 @@ section {
   ol,
   ul {
     padding: 0 0 0 30px;
+  }
+
+  ul {
+    list-style-image: none;
   }
 }
