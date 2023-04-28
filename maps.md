@@ -126,7 +126,7 @@ information contained within the above sources.
 | --------- | :----: |
 | Left      |   ⬅️    |
 | Right     |   ➡️    |
-| Straight  |   ⬆️    |
+| Straight  |        |
 
 > N.B. Orientation is relative to the direction of travel away from the map
 > entrance tile, _unless otherwise specified_.
@@ -147,14 +147,14 @@ information contained within the above sources.
 ### 2. Blood Moor
 
 - to Den of Evil 🟢 🏃
-  - L1 🛡️ _Cleanse the Den of Evil_
+  - L1 🛡️ _Cleanse The Den of Evil_
 - to Cold Plains 🏃
 
 ### 3. Cold Plains ⚪
 
-- 🛡️ _Moldy Tome_  ❓
+- 🛡️ _Read the Moldy Tome_  ❓
 - to Burial Grounds 📐
-  - L1 🛡️ _Blood Raven_ ➕
+  - L1 🛡️ _Kill Blood Raven_ ➕
   - to Crypt 🏃
     - L1 ⬅️ 💰
   - to Mausoleum 🏃
@@ -166,8 +166,8 @@ information contained within the above sources.
 
 ### 4. Stony Field ⚪
 
-- to Tristram 🔴 (Access after retrieving [Scroll of Inifuss](#6-dark-wood-))
-  - L1 ⚔️ _The Search for Cain_
+- to Tristram 🔴 (Access after retrieving [The Scroll of Inifuss](#6-dark-wood-))
+  - L1 ⚔️ _Rescue Deckard Cain_
 - to Underground Passage 📏 or 🏃
 
 ### 5. Underground Passage
@@ -178,14 +178,14 @@ information contained within the above sources.
 
 ### 6. Dark Wood ⚪
 
-- ⚔️ _Tree of Inifuss_ ❓
+- ⚔️ _Retrieve scroll from The Tree of Inifuss_ ❓
 - to Black Marsh 🏃
 
 ### 7. Black Marsh ⚪
 
 - to Forgotten Tower 📏 ❔
   - to L2/L3/L4/L5 ⬅️
-    - L5 🛡️ _The Countess_
+    - L5 🛡️ _Kill The Countess_
 - to Hole 🟢 ❓
   - to L2 ⬅️
     - L2 💰
@@ -245,7 +245,7 @@ information contained within the above sources.
   - 🟡 ⬅️
   - to L2 (Usually nearest to south entrance)
     - to L3 ⬆️, ⬅️ of WP
-      - L3 🛡️ 💰 _Radament's Lair_
+      - L3 🛡️ 💰 _Kill Radament_
 - to Rocky Waste 🏃
 
 ### 2. Rocky Waste
@@ -298,7 +298,7 @@ information contained within the above sources.
 
 ### 9. Arcane Sanctuary ⚪
 
-- ⚔️ _The Summoner_ ❓ (Kill to open exit portal)
+- ⚔️ _Kill The Summoner_ ❓
 - to Canyon of the Magi 🔴
 
 ### 10. Canyon of the Magi ⚪
@@ -309,7 +309,8 @@ information contained within the above sources.
 
 ### 11. Tal Rasha's Tomb
 
-- ⚔️ _Staff of Kings + Amulet of the Viper -> Horadric Cube = Horadric Staff_
+> Combine Staff of Kings and Amulet of the Viper inside the Horadric Cube to
+> create The Horadric Staff.
 
 - ⬅️ ⚔️ _Place Horadric Staff into Orifice_
   - to Tal Rasha's Chamber ⬅️
@@ -338,11 +339,11 @@ information contained within the above sources.
 > Following the north riverbank is a decent strategy to find exits.
 
 - 🛡️ _Jade Figurine_ (Kill first spawned unique outside of Kurast Docks)
-- to Arachnid Lair 🟢 ❔ (Camp w/ ⚪)
+- to Arachnid Lair 🟢 ❔ (Side camp w/ ⚪)
   - L1 💰 ↙️ 📐
 - to Spider Cavern 🟢 ❔
   - L1 💰 ↙️ 📏 ➕ ⚔️ _Khalim's Eye_
-- to Great Marsh ⚪
+- to Great Marsh ⚪ ❔
   - ⚪ ❔
   - 💰 ❔
   - to Flayer Jungle ❔
@@ -395,7 +396,7 @@ information contained within the above sources.
 ### 8. Travincal ⚪
 
 - ⚪ ↖️ ➕
-- 🛡️ _The High Council_ ↗️ ➕
+- 🛡️ _Kill The High Council_ ↗️ ➕
 - ⚔️ _Khalim's Flail_ ↗️ ➕
 - to Durance of Hate ↗️ ➕
 
@@ -422,7 +423,7 @@ information contained within the above sources.
 
 ### 3. Plains of Despair
 
-- 🛡️ _Izual_ ❓ (Spawns on reverse "L" shaped lava tile)
+- 🛡️ _Kill Izual_ ❓ (Spawns on reverse "L" shaped lava tile)
 - to City of the Damned (↖️, ↗️ or ↘️) 📏 ➕ OR ↙️ 📐
 
 ### 4. City of the Damned ⚪
@@ -432,10 +433,14 @@ information contained within the above sources.
 
 ### 5. River of Flame ⚪
 
-- 🛡️ _Hellforge_
+- ⚪ ↗️
+- 🛡️ _Activate the Hellforge, then attack it twice_ (Perpendicular to ⚪)
 - to Chaos Sanctuary ↗️
 
 ### 6. Chaos Sanctuary
+
+> Activate the seals (5 in total) and kill the 3 mini-bosses in each of the
+> 3 side tiles to summon Diablo.
 
 - ⚔️ 💪 _Diablo_
 
@@ -447,50 +452,69 @@ information contained within the above sources.
 
 ### 1. Harrogath ⚪ ⚒️
 
-- to Nihlathak's Temple
-  - to Halls of Anguish
-  - to Halls of Pain ⚪
-  - to Halls of Vaught
+- to Nihlathak's Temple 🔴 (Access after [Freeing Anya](#5-crystalline-passage-))
+  - to Halls of Anguish ↗️
+    - to Halls of Pain ↗️, ↘️ or ↙️
+      - L1 ⚪ ❔
+      - to Halls of Vaught ❔ (3 possible routes)
+        - L1 🛡️ _Kill Nihlathak_ 📐 (Spawns in tile preceded by "eyes" on wall)
 - to Uber Bosses 🔴
-- to Bloody Foothills
+- to Bloody Foothills 🏃
 
 ### 2. Bloody Foothills
 
-- to Frigid Highlands
+- 🛡️ _Kill Shenk the Overseer_ (Directly before map exit)
+- to Frigid Highlands ↖️ ➕
 
 ### 3. Frigid Highlands ⚪
 
-- to Abaddon
-- to Arreat Plateau
+> Follow north wall if not using teleport.
+
+- ⚪ (At entrance)
+- 🛡️ _Rescue Barbarian soldiers at each of the three barricades_
+- to Abaddon 🟢 🔴
+- to Arreat Plateau 📏 (Opposite of entrance)
 
 ### 4. Arreat Plateau ⚪
 
-- to Pit of Acheron
-- to Crystalline Passage
+> Follow north wall if not using teleport.
+
+- ⚪ (At entrance)
+- to Pit of Acheron 🟢 🔴
+- to Crystalline Passage 📏 (Opposite of entrance)
 
 ### 5. Crystalline Passage ⚪
 
-- to Frozen River
-- to Glacial Trail ⬅️
+- ⚪ ➡️
+- to Frozen River 🟢 ⬆️
+  - L1 🛡️ _Free Anya from the Prison of Ice_
+- to Glacial Trail ⬅️, ⬆️ of ⚪
 
 ### 6. Glacial Trail ⚪
 
-- to Drifter Cavern
-- to Frozen Tundra ⬅️
+- ⚪ (Parallel to entrance)
+- to Drifter Cavern 🟢 ⬆️, ⬆️ of ⚪
+- to Frozen Tundra ⬅️, ⬅️ of ⚪
 
 ### 7. Frozen Tundra ⚪
 
-- to Infernal Pit
-- to Ancient's Way
+> Follow north wall if not using teleport.
+
+- to Infernal Pit 🟢 🔴
+- to Ancient's Way 📏 (Opposite of entrance)
 
 ### 8. Ancient's Way ⚪
 
-- to Icy Cellar ⬆️, ➡️ of WP
+- ⚪ ➡️
+- to Icy Cellar 🟢 ⬆️, ➡️ of WP
 - to Arreat Summit ⬅️, ⬆️ of WP
 
 ### 9. Arreat Summit
 
-- to Worldstone Keep
+> Required level \- Normal: 20, Nightmare: 40, Hell: 60
+
+- ⚔️ _Defeat the Ancients_
+- to Worldstone Keep 🏃
 
 ### 10. Worldstone Keep 🟡
 
@@ -500,7 +524,11 @@ information contained within the above sources.
 
 ### 11. Throne of Destruction
 
-- to Worldstone Chamber
+> Baal's minion waves can be skipped by making them chase you under and out of
+> the archway leading away from their spawning tile.
+
+- ⚔️ _Defeat Baal's Minions_
+- to Worldstone Chamber 🔴
   - ⚔️ 💪 _Baal_
 
 ---
