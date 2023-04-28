@@ -86,7 +86,7 @@ information contained within the above sources.
 | ------------------ | :----: |
 | Act Boss           |   💪    |
 | Chest              |   💰    |
-| Safe Zone          |   ⚒️    |
+| Town               |   ⚒️    |
 | Quest (Essential)  |   ⚔️    |
 | Quest (Optional)   |   🛡️    |
 | Waypoint           |   ⚪    |
