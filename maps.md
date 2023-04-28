@@ -86,8 +86,9 @@ information contained within the above sources.
 | ------------------ | :----: |
 | Act Boss           |   💪    |
 | Chest              |   💰    |
-| Quest              |   ⚔️    |
 | Safe Zone          |   ⚒️    |
+| Quest (Essential)  |   ⚔️    |
+| Quest (Optional)   |   🛡️    |
 | Waypoint           |   ⚪    |
 | Waypoint (Level 2) |   🟡    |
 
@@ -95,6 +96,11 @@ information contained within the above sources.
 
 | Type               | Symbol |
 | ------------------ | :----: |
+| Top Right          |   ↗️    |
+| Top Left           |   ↖️    |
+| Bottom Right       |   ↘️    |
+| Bottom Left        |   ↙️    |
+| Centre             |   ➕    |
 | Corner             |   📐    |
 | Edge               |   📏    |
 | Path / Direct      |   🏃    |
@@ -111,8 +117,8 @@ information contained within the above sources.
 | Right     |   ➡️    |
 | Straight  |   ⬆️    |
 
-> N.B. Directions refer to the direction of travel _away_ from the current map
-> entrance tile \- unless specified otherwise.
+> N.B. Orientation is relative to the direction of travel _away_ from the map
+> entrance tile, unless otherwise specified.
 
 ---
 
@@ -127,13 +133,13 @@ information contained within the above sources.
 
 ### 2. Blood Moor
 
-- to Den of Evil ⚔️ 🟢 🏃
+- to Den of Evil 🛡️ 🟢 🏃
 - to Cold Plains 🏃
 
 ### 3. Cold Plains ⚪
 
-- _Moldy Tome_ ⚔️ ❓
-- to Burial Grounds ⚔️ 📐
+- _Moldy Tome_ 🛡️ ❓
+- to Burial Grounds 🛡️ 📐
   - Crypt ⬅️ 💰
   - Mausoleum ⬅️ 💰
 - to Cave 🟢 🏃
@@ -161,18 +167,18 @@ information contained within the above sources.
 
 - to Forgotten Tower 📏 ❔
   - to L2/L3/L4/L5 ⬅️
-    - L5 ⚔️ (_The Countess_)
+    - L5 🛡️ (_The Countess_)
 - to Hole 🟢 ❓
   - to L2 ⬅️
     - L2 💰
-- to Tamoe Highland 🏃 ❔ (Not bottom)
+- to Tamoe Highland 🏃 ❔ (Not ↙️)
 
 ### 8. Tamoe Highland
 
 - to The Pit 🏃 from Outer Cloister WP
   - to L2 ⬅️
     - L2 💰
-- to Outer Cloister 📏 (Top)
+- to Outer Cloister 📏 ↗️
 
 ### 9. Outer Cloister ⚪
 
@@ -183,7 +189,7 @@ information contained within the above sources.
 
 ### 10. Barracks
 
-- _Horadric Malus_ ⚔️ ⬆️ or ⬅️
+- _Horadric Malus_ 🛡️ ⬆️ or ⬅️
 - to Jail ⬆️ or ⬅️
 
 ### 11. Jail ⚪
@@ -195,7 +201,7 @@ information contained within the above sources.
 
 ### 12. Inner Cloister ⚪
 
-- to Cathedral 📏 (Top)
+- to Cathedral 📏 ↗️
 
 ### 13. Cathedral
 
@@ -217,11 +223,11 @@ information contained within the above sources.
 ### 1. Lut Gholein ⚪ ⚒️
 
 - to Harem 🏃
-- to Sewer 🟡 🏃 (North and South)
+- to Sewer 🟡 🏃 (North and south entrances)
   - 🟡 ⬅️
   - to L2 (Usually nearest to south entrance)
     - to L3 ⬆️, ⬅️ of WP
-      - L3 ⚔️ 💰 (_Radament's Lair_)
+      - L3 🛡️ 💰 (_Radament's Lair_)
 - to Rocky Waste 🏃
 
 ### 2. Rocky Waste
@@ -245,20 +251,20 @@ information contained within the above sources.
 - to Maggot Lair 🟢 ❓
   - to L2 ➡️
     - to L3 ➡️
-      - L3 ⬆️ ⚔️ (_Horadric Shaft_)
+      - L3 ⬆️ ⚔️ (_Staff of Kings_)
 - to Lost City 📐 (Not on same side as map entrance)
 
 ### 5. Lost City ⚪
 
 - to Ancient Tunnels 🟢 ❓
   - L1 💰 ⬅️
-- to Valley of Snakes 📐(Not on bottom)
+- to Valley of Snakes 📐(Not ↙️)
 
 ### 6. Valley of Snakes
 
 - to Claw Viper Temple 🏃
   - to L2 ⬅️
-    - L2 ⚔️ (_Amulet of the Viper & Tainted Sun_)
+    - L2 ⚔️ (_Amulet of the Viper_)
 
 ### 7. Harem
 
@@ -267,10 +273,10 @@ information contained within the above sources.
 
 ### 8. Palace Cellar ⚪
 
-- ⚪ (Near middle)
-- to L2 📐 (Top or Bottom)
-  - to L3 📐 (Top or Bottom)
-    - to Arcane Sanctuary 🏃 (Middle)
+- ⚪ ➕
+- to L2 📐 (↗️ or ↙️)
+  - to L3 📐 (↗️ or ↙️)
+    - to Arcane Sanctuary 🏃 ➕
 
 ### 9. Arcane Sanctuary ⚪
 
@@ -284,7 +290,7 @@ information contained within the above sources.
 
 ### 11. Tal Rasha's Tomb
 
-- _Horadric Shaft, Amulet of the Viper -> Horadric Cube = Horadric Staff_
+- ⚔️ _Staff of Kings + Amulet of the Viper -> Horadric Cube = Horadric Staff_
 
 - ⬅️ ⚔️ (_Horadric Staff into Orifice_)
   - to Tal Rasha's Chamber ⬅️
@@ -301,60 +307,85 @@ information contained within the above sources.
 
 ### 1. Kurast Docks ⚪ ⚒️
 
+- to Spider Forest 📏 ↗️
+
 ### 2. Spider Forest ⚪
 
-- to Arachnid Lair
-- to Spider Cavern
+> The jungle maps are made out of three adjoining 2 x 6 rectangle tiles
+>
+> Map exits appear on rows 3, 5 or 6. The remaining junctions lead to side
+> camps, which contain all waypoints, chests and dungeons.
+>
+> Following the north riverbank is a decent strategy to find exits.
+
+- _Jade Figurine_ 🛡️ (Kill first spawned unique outside of Kurast Docks)
+- to Arachnid Lair 🟢 ❔ (Camp w/ ⚪)
+  - L1 💰 📐 ↙️
+- to Spider Cavern 🟢 ❔
+  - L1 💰 📏 ↙️ ➕ ⚔️ (_Khalim's Eye_)
 - to Great Marsh ⚪
+  - ⚪ ❔
+  - 💰 ❔
   - to Flayer Jungle ❔
 - to Flayer Jungle ❔
 
 ### 3. Flayer Jungle ⚪
 
-- to Flayer Dungeon
+- to Flayer Dungeon 🟢
+  - _The Gidbinn_ 🛡️ (Activate altar outside of dungeon)
   - to L2 ⬅️
     - to L3 ⬅️
-      - L3
-- to Swampy Pit
+      - L3 ⚔️ (_Khalim's Brain_)
+- to Swampy Pit 🟢 (Next to ⚪)
   - to L2 ⬅️
     - to L3 ⬅️
-      - L3
-- to Lower Kurast
+      - L3 💰
+- to Lower Kurast 📏 (Row 6 w/ gold piles)
 
 ### 4. Lower Kurast ⚪
 
-- to Kurast Bazaar
+> Multiple superchests can be found in buildings above torch circles.
+
+- ⚪ ❓
+- to Kurast Bazaar 📐 ↗️
 
 ### 5. Kurast Bazaar ⚪
 
-- to Disused Fane
-- to Ruined Temple
-- to Sewers
-  - to L2 ➡️ of Chest
-  - to Upper Kurast
-- to Upper Kurast
+- to Disused Fane ❓
+- to Ruined Temple ❓
+  - L1 🛡️ (_Lam Esen's Tome_)
+- to Sewers ➕
+  - to L2 ➡️ of 📏 💰
+  - L2 ⚔️ (_Khalim's Heart_)
+  - to Upper Kurast 📐
+- to Upper Kurast 📐 ↗️ (Opposite diagonal from entrance)
 
 ### 6. Upper Kurast ⚪
 
-- to Forgotten Reliquary
-- to Forgotten Temple
-- to Kurast Causeway
+- to Sewers ➕ (As above)
+- to Forgotten Reliquary ❓
+- to Forgotten Temple ❓
+- to Kurast Causeway ↗️ ➕
 
 ### 7. Kurast Causeway
 
-- to Disused Reliquary
-- to Ruined Fane
-- to Travincal
+- to Disused Reliquary 📏
+- to Ruined Fane 📏
+- to Travincal ↗️ ➕
 
 ### 8. Travincal ⚪
 
-- to Durance of Hate
+- ⚪ ↖️ ➕
+- 🛡️ (_The High Council_) ↗️ ➕
+- ⚔️ (_Khalim's Flail_) ↗️ ➕
+- to Durance of Hate ↗️ ➕
 
 ### 9. Durance of Hate 🟡
 
+- 🟡 ⬅️
 - to L2 ⬅️
 - to L3 ⬆️, ⬅️ of WP
-- L3 ⚔️ 💪 (_Mephisto_)
+- L3 💰 ⚔️ 💪 (_Mephisto_)
 
 ---
 
