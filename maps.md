@@ -232,7 +232,7 @@ information contained within the above sources.
 - to L2 ❓
   - to L3 ➡️ of WP
     - to L4 ❓
-      - L4 ⚔️ 💪 _Andariel_
+      - L4 ⚔️ 💪 **_Andariel_**
 
 ---
 
@@ -319,7 +319,7 @@ information contained within the above sources.
 
 ### 12. Tal Rasha's Chamber
 
-- ⚔️ 💪 _Duriel_
+- ⚔️ 💪 **_Duriel_**
 
 ---
 
@@ -407,7 +407,7 @@ information contained within the above sources.
 - 🟡 ⬅️
 - to L2 ⬅️
 - to L3 ⬆️, ⬅️ of WP
-- L3 💰 ⚔️ 💪 _Mephisto_
+- L3 💰 ⚔️ 💪 **_Mephisto_**
 
 ---
 
@@ -444,7 +444,7 @@ information contained within the above sources.
 > Activate the seals (5 in total) and kill the 3 mini-bosses in each of the
 > 3 side tiles to summon Diablo.
 
-- ⚔️ 💪 _Diablo_
+- ⚔️ 💪 **_Diablo_**
 
 ---
 
@@ -456,15 +456,15 @@ information contained within the above sources.
 
 - to Mini Uber Boss Zones 🔴 (After [Key Bosses][4])
   - Matron's Den
-    - ⬅️ 🔥 _Uber Andariel_
+    - ⬅️ 🔥 **_Uber Andariel_**
   - Forgotten Sands
-    - ➕ 🔥 _Uber Duriel_
+    - ➕ 🔥 **_Uber Duriel_**
   - Furnace of Pain
-    - 🏃 ❔ (Bridge direction) 🔥 _Uber Izual_
+    - 🏃 ❔ (Bridge direction) 🔥 **_Uber Izual_**
 - to Uber Tristram 🔴 (After [Mini Ubers][5])
-  - 🔥 _Uber Baal_
-  - 🔥 _Uber Diablo_
-  - 🔥 _Uber Mephisto_
+  - 🔥 **_Uber Baal_**
+  - 🔥 **_Uber Diablo_**
+  - 🔥 **_Uber Mephisto_**
 - to Nihlathak's Temple 🔴 (After [Freeing Anya](#5-crystalline-passage-))
   - to Halls of Anguish ↗️
     - to Halls of Pain ↗️, ↘️ or ↙️
@@ -541,7 +541,7 @@ information contained within the above sources.
 
 - ⚔️ _Defeat Baal's Minions_
 - to Worldstone Chamber 🔴
-  - ⚔️ 💪 _Baal_
+  - ⚔️ 💪 **_Baal_**
 
 ---
 
