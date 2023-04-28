@@ -117,8 +117,10 @@ information contained within the above sources.
 | Right     |   ➡️    |
 | Straight  |   ⬆️    |
 
-> N.B. Orientation is relative to the direction of travel _away_ from the map
-> entrance tile, unless otherwise specified.
+> N.B. Orientation is relative to the direction of travel away from the map
+> entrance tile, _unless otherwise specified_.
+>
+> Guidance on how to read map tiles can be found [here](#preface).
 
 ---
 
@@ -311,7 +313,7 @@ information contained within the above sources.
 
 ### 2. Spider Forest ⚪
 
-> The jungle maps are made out of three adjoining 2 x 6 rectangle tiles
+> The jungle maps are made out of three adjoining 2 x 6 rectangular tiles.
 >
 > Map exits appear on rows 3, 5 or 6. The remaining junctions lead to side
 > camps, which contain all waypoints, chests and dungeons.
