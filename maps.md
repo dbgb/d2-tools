@@ -117,7 +117,7 @@ information contained within the above sources.
 >|    Example |           Meaning            |
 >| ---------: | :--------------------------: |
 >|          ↘️ |           Head to BR            |
->| 📐 (↘️ or ↖️) |       BR or TL corner        |
+>| (↘️ or ↖️) 📐 |       BR or TL corner        |
 >|      ↘️ 📏 ➕ | In the centre of the BR edge |
 
 ### Orientation
@@ -146,15 +146,19 @@ information contained within the above sources.
 
 ### 2. Blood Moor
 
-- to Den of Evil 🛡️ 🟢 🏃
+- to Den of Evil 🟢 🏃
+  - L1 🛡️ _Cleanse the Den of Evil_
 - to Cold Plains 🏃
 
 ### 3. Cold Plains ⚪
 
-- _Moldy Tome_ 🛡️ ❓
-- to Burial Grounds 🛡️ 📐
-  - Crypt ⬅️ 💰
-  - Mausoleum ⬅️ 💰
+- 🛡️ _Moldy Tome_  ❓
+- to Burial Grounds 📐
+  - L1 🛡️ _Blood Raven_ ➕
+  - to Crypt 🏃
+    - L1 ⬅️ 💰
+  - to Mausoleum 🏃
+    - L1 ⬅️ 💰
 - to Cave 🟢 🏃
   - to L2 ⬅️
     - L2 💰
@@ -162,7 +166,8 @@ information contained within the above sources.
 
 ### 4. Stony Field ⚪
 
-- to Tristram ⚔️ 🔴
+- to Tristram 🔴 (Access after retrieving [Scroll of Inifuss](#6-dark-wood-))
+  - L1 ⚔️ _The Search for Cain_
 - to Underground Passage 📏 or 🏃
 
 ### 5. Underground Passage
@@ -173,14 +178,14 @@ information contained within the above sources.
 
 ### 6. Dark Wood ⚪
 
-- _Tree of Inifuss_ ⚔️ ❓
+- ⚔️ _Tree of Inifuss_ ❓
 - to Black Marsh 🏃
 
 ### 7. Black Marsh ⚪
 
 - to Forgotten Tower 📏 ❔
   - to L2/L3/L4/L5 ⬅️
-    - L5 🛡️ (_The Countess_)
+    - L5 🛡️ _The Countess_
 - to Hole 🟢 ❓
   - to L2 ⬅️
     - L2 💰
@@ -202,7 +207,7 @@ information contained within the above sources.
 
 ### 10. Barracks
 
-- _Horadric Malus_ 🛡️ ⬆️ or ⬅️
+- 🛡️ _Horadric Malus_ ⬆️ or ⬅️
 - to Jail ⬆️ or ⬅️
 
 ### 11. Jail ⚪
@@ -225,7 +230,7 @@ information contained within the above sources.
 - to L2 ❓
   - to L3 ➡️ of WP
     - to L4 ❓
-      - L4 ⚔️ 💪 (_Andariel_)
+      - L4 ⚔️ 💪 _Andariel_
 
 ---
 
@@ -240,7 +245,7 @@ information contained within the above sources.
   - 🟡 ⬅️
   - to L2 (Usually nearest to south entrance)
     - to L3 ⬆️, ⬅️ of WP
-      - L3 🛡️ 💰 (_Radament's Lair_)
+      - L3 🛡️ 💰 _Radament's Lair_
 - to Rocky Waste 🏃
 
 ### 2. Rocky Waste
@@ -256,7 +261,7 @@ information contained within the above sources.
   - 🟡 ⬆️
   - to L2 ⬅️
     - to L3 ⬅️, ➡️ of WP
-      - L3 ⬅️ ⚔️ (_Horadric Cube_)
+      - L3 ⬅️ ⚔️ _Horadric Cube_
 - to Far Oasis 📐 (Not on same side as map entrance)
 
 ### 4. Far Oasis ⚪
@@ -264,7 +269,7 @@ information contained within the above sources.
 - to Maggot Lair 🟢 ❓
   - to L2 ➡️
     - to L3 ➡️
-      - L3 ⬆️ ⚔️ (_Staff of Kings_)
+      - L3 ⬆️ ⚔️ _Staff of Kings_
 - to Lost City 📐 (Not on same side as map entrance)
 
 ### 5. Lost City ⚪
@@ -277,7 +282,7 @@ information contained within the above sources.
 
 - to Claw Viper Temple 🏃
   - to L2 ⬅️
-    - L2 ⚔️ (_Amulet of the Viper_)
+    - L2 ⚔️ _Amulet of the Viper_
 
 ### 7. Harem
 
@@ -287,13 +292,14 @@ information contained within the above sources.
 ### 8. Palace Cellar ⚪
 
 - ⚪ ➕
-- to L2 📐 (↖️ or ↘️)
-  - to L3 📐 (↖️ or ↘️)
+- to L2 (↖️ or ↘️) 📐
+  - to L3 (↖️ or ↘️) 📐
     - to Arcane Sanctuary 🏃 ➕
 
 ### 9. Arcane Sanctuary ⚪
 
-- to Canyon of the Magi 🔴 ❓ ⚔️ (_The Summoner_)
+- ⚔️ _The Summoner_ ❓ (Kill to open exit portal)
+- to Canyon of the Magi 🔴
 
 ### 10. Canyon of the Magi ⚪
 
@@ -305,12 +311,12 @@ information contained within the above sources.
 
 - ⚔️ _Staff of Kings + Amulet of the Viper -> Horadric Cube = Horadric Staff_
 
-- ⬅️ ⚔️ (_Horadric Staff into Orifice_)
+- ⬅️ ⚔️ _Place Horadric Staff into Orifice_
   - to Tal Rasha's Chamber ⬅️
 
 ### 12. Tal Rasha's Chamber
 
-- ⚔️ 💪 (_Duriel_)
+- ⚔️ 💪 _Duriel_
 
 ---
 
@@ -331,11 +337,11 @@ information contained within the above sources.
 >
 > Following the north riverbank is a decent strategy to find exits.
 
-- _Jade Figurine_ 🛡️ (Kill first spawned unique outside of Kurast Docks)
+- 🛡️ _Jade Figurine_ (Kill first spawned unique outside of Kurast Docks)
 - to Arachnid Lair 🟢 ❔ (Camp w/ ⚪)
   - L1 💰 ↙️ 📐
 - to Spider Cavern 🟢 ❔
-  - L1 💰 ↙️ 📏 ➕ ⚔️ (_Khalim's Eye_)
+  - L1 💰 ↙️ 📏 ➕ ⚔️ _Khalim's Eye_
 - to Great Marsh ⚪
   - ⚪ ❔
   - 💰 ❔
@@ -345,10 +351,10 @@ information contained within the above sources.
 ### 3. Flayer Jungle ⚪
 
 - to Flayer Dungeon 🟢
-  - _The Gidbinn_ 🛡️ (Activate altar outside of dungeon)
+  - 🛡️ _The Gidbinn_ (Activate altar outside of dungeon)
   - to L2 ⬅️
     - to L3 ⬅️
-      - L3 ⚔️ (_Khalim's Brain_)
+      - L3 ⚔️ _Khalim's Brain_
 - to Swampy Pit 🟢 (Next to ⚪)
   - to L2 ⬅️
     - to L3 ⬅️
@@ -366,10 +372,10 @@ information contained within the above sources.
 
 - to Disused Fane ❓
 - to Ruined Temple ❓
-  - L1 🛡️ (_Lam Esen's Tome_)
+  - L1 🛡️ _Lam Esen's Tome_
 - to Sewers ➕
   - to L2 ➡️ of 💰 📏
-  - L2 ⚔️ (_Khalim's Heart_)
+  - L2 ⚔️ _Khalim's Heart_
   - to Upper Kurast 📐
 - to Upper Kurast ↗️ 📏 (Opposite diagonal from entrance)
 
@@ -389,8 +395,8 @@ information contained within the above sources.
 ### 8. Travincal ⚪
 
 - ⚪ ↖️ ➕
-- 🛡️ (_The High Council_) ↗️ ➕
-- ⚔️ (_Khalim's Flail_) ↗️ ➕
+- 🛡️ _The High Council_ ↗️ ➕
+- ⚔️ _Khalim's Flail_ ↗️ ➕
 - to Durance of Hate ↗️ ➕
 
 ### 9. Durance of Hate 🟡
@@ -398,7 +404,7 @@ information contained within the above sources.
 - 🟡 ⬅️
 - to L2 ⬅️
 - to L3 ⬆️, ⬅️ of WP
-- L3 💰 ⚔️ 💪 (_Mephisto_)
+- L3 💰 ⚔️ 💪 _Mephisto_
 
 ---
 
@@ -412,24 +418,26 @@ information contained within the above sources.
 
 ### 2. Outer Steppes
 
-- 🛡️ (_Izual_)
-- to Plains of Despair 📐 (↖️ or ↘️)
+- to Plains of Despair (↖️ or ↘️) 📐
 
 ### 3. Plains of Despair
 
-- to City of the Damned
+- 🛡️ _Izual_ ❓ (Spawns on reverse "L" shaped lava tile)
+- to City of the Damned (↖️, ↗️ or ↘️) 📏 ➕ OR ↙️ 📐
 
 ### 4. City of the Damned ⚪
 
-- to River of Flame
+- ⚪ ❓
+- to River of Flame 🟢 (Next to ⚪)
 
 ### 5. River of Flame ⚪
 
-- to Chaos Sanctuary
+- 🛡️ _Hellforge_
+- to Chaos Sanctuary ↗️
 
 ### 6. Chaos Sanctuary
 
-- ⚔️ 💪 (_Diablo_)
+- ⚔️ 💪 _Diablo_
 
 ---
 
@@ -493,7 +501,7 @@ information contained within the above sources.
 ### 11. Throne of Destruction
 
 - to Worldstone Chamber
-  - ⚔️ 💪 (_Baal_)
+  - ⚔️ 💪 _Baal_
 
 ---
 
