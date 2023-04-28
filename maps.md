@@ -96,10 +96,10 @@ information contained within the above sources.
 
 | Type               | Symbol |
 | ------------------ | :----: |
-| Top Right          |   ↗️    |
-| Top Left           |   ↖️    |
-| Bottom Right       |   ↘️    |
-| Bottom Left        |   ↙️    |
+| Top Right (TR)     |   ↗️    |
+| Top Left (TL)      |   ↖️    |
+| Bottom Right (BR)  |   ↘️    |
+| Bottom Left (BL)   |   ↙️    |
 | Centre             |   ➕    |
 | Corner             |   📐    |
 | Edge               |   📏    |
@@ -108,6 +108,17 @@ information contained within the above sources.
 | Portal             |   🔴    |
 | Random Placement   |   ❓    |
 | Variable Placement |   ❔    |
+
+> N.B. Location symbols refer to the general direction of travel, or when
+> specified \- an area relative to an edge or corner of the current map.
+>
+> e.g.
+>
+>|    Example |           Meaning            |
+>| ---------: | :--------------------------: |
+>|          ↘️ |           Head to BR            |
+>| 📐 (↘️ or ↖️) |       BR or TL corner        |
+>|      ↘️ 📏 ➕ | In the centre of the BR edge |
 
 ### Orientation
 
@@ -152,7 +163,7 @@ information contained within the above sources.
 ### 4. Stony Field ⚪
 
 - to Tristram ⚔️ 🔴
-- to Underground Passage 📏 or 🟢
+- to Underground Passage 📏 or 🏃
 
 ### 5. Underground Passage
 
@@ -180,7 +191,7 @@ information contained within the above sources.
 - to The Pit 🏃 from Outer Cloister WP
   - to L2 ⬅️
     - L2 💰
-- to Outer Cloister 📏 ↗️
+- to Outer Cloister ↗️ 📏
 
 ### 9. Outer Cloister ⚪
 
@@ -203,7 +214,7 @@ information contained within the above sources.
 
 ### 12. Inner Cloister ⚪
 
-- to Cathedral 📏 ↗️
+- to Cathedral ↗️ 📏
 
 ### 13. Cathedral
 
@@ -260,7 +271,7 @@ information contained within the above sources.
 
 - to Ancient Tunnels 🟢 ❓
   - L1 💰 ⬅️
-- to Valley of Snakes 📐(Not ↙️)
+- to Valley of Snakes 📐 (Not ↙️)
 
 ### 6. Valley of Snakes
 
@@ -276,8 +287,8 @@ information contained within the above sources.
 ### 8. Palace Cellar ⚪
 
 - ⚪ ➕
-- to L2 📐 (↗️ or ↙️)
-  - to L3 📐 (↗️ or ↙️)
+- to L2 📐 (↖️ or ↘️)
+  - to L3 📐 (↖️ or ↘️)
     - to Arcane Sanctuary 🏃 ➕
 
 ### 9. Arcane Sanctuary ⚪
@@ -309,7 +320,7 @@ information contained within the above sources.
 
 ### 1. Kurast Docks ⚪ ⚒️
 
-- to Spider Forest 📏 ↗️
+- to Spider Forest ↗️ 📏
 
 ### 2. Spider Forest ⚪
 
@@ -322,9 +333,9 @@ information contained within the above sources.
 
 - _Jade Figurine_ 🛡️ (Kill first spawned unique outside of Kurast Docks)
 - to Arachnid Lair 🟢 ❔ (Camp w/ ⚪)
-  - L1 💰 📐 ↙️
+  - L1 💰 ↙️ 📐
 - to Spider Cavern 🟢 ❔
-  - L1 💰 📏 ↙️ ➕ ⚔️ (_Khalim's Eye_)
+  - L1 💰 ↙️ 📏 ➕ ⚔️ (_Khalim's Eye_)
 - to Great Marsh ⚪
   - ⚪ ❔
   - 💰 ❔
@@ -349,7 +360,7 @@ information contained within the above sources.
 > Multiple superchests can be found in buildings above torch circles.
 
 - ⚪ ❓
-- to Kurast Bazaar 📐 ↗️
+- to Kurast Bazaar ↗️ 📐
 
 ### 5. Kurast Bazaar ⚪
 
@@ -357,10 +368,10 @@ information contained within the above sources.
 - to Ruined Temple ❓
   - L1 🛡️ (_Lam Esen's Tome_)
 - to Sewers ➕
-  - to L2 ➡️ of 📏 💰
+  - to L2 ➡️ of 💰 📏
   - L2 ⚔️ (_Khalim's Heart_)
   - to Upper Kurast 📐
-- to Upper Kurast 📐 ↗️ (Opposite diagonal from entrance)
+- to Upper Kurast ↗️ 📏 (Opposite diagonal from entrance)
 
 ### 6. Upper Kurast ⚪
 
@@ -397,11 +408,12 @@ information contained within the above sources.
 
 ### 1. Pandemonium Fort ⚪ ⚒️
 
-- to Outer Steppes
+- to Outer Steppes 🏃 ↘️
 
 ### 2. Outer Steppes
 
-- to Plains of Despair
+- 🛡️ (_Izual_)
+- to Plains of Despair 📐 (↖️ or ↘️)
 
 ### 3. Plains of Despair
 
