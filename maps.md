@@ -156,7 +156,7 @@ information contained within the above sources.
 
 - 🛡️ _Read the Moldy Tome_  ❓
 - to Burial Grounds 📐
-  - L1 🛡️ _Kill Blood Raven_ ➕
+  - L1 🛡️ _Blood Raven_ ➕
   - to Crypt 🏃
     - L1 ⬅️ 💰
   - to Mausoleum 🏃
@@ -187,7 +187,7 @@ information contained within the above sources.
 
 - to Forgotten Tower 📏 ❔
   - to L2/L3/L4/L5 ⬅️
-    - L5 🛡️ _Kill The Countess_
+    - L5 🛡️ 🗝️ _The Countess_
 - to Hole 🟢 ❓
   - to L2 ⬅️
     - L2 💰
@@ -247,7 +247,7 @@ information contained within the above sources.
   - 🟡 ⬅️
   - to L2 (Usually nearest to south entrance)
     - to L3 ⬆️, ⬅️ of WP
-      - L3 🛡️ 💰 _Kill Radament_
+      - L3 🛡️ 💰 _Radament_
 - to Rocky Waste 🏃
 
 ### 2. Rocky Waste
@@ -300,7 +300,7 @@ information contained within the above sources.
 
 ### 9. Arcane Sanctuary ⚪
 
-- ⚔️ _Kill The Summoner_ ❓
+- ⚔️ 🗝️ _The Summoner_ ❓
 - to Canyon of the Magi 🔴
 
 ### 10. Canyon of the Magi ⚪
@@ -398,7 +398,7 @@ information contained within the above sources.
 ### 8. Travincal ⚪
 
 - ⚪ ↖️ ➕
-- 🛡️ _Kill The High Council_ ↗️ ➕
+- 🛡️ _The High Council_ ↗️ ➕
 - ⚔️ _Khalim's Flail_ ↗️ ➕
 - to Durance of Hate ↗️ ➕
 
@@ -425,7 +425,7 @@ information contained within the above sources.
 
 ### 3. Plains of Despair
 
-- 🛡️ _Kill Izual_ ❓ (Spawns on reverse "L" shaped lava tile)
+- 🛡️ _Izual_ ❓ (Spawns on reverse "L" shaped lava tile)
 - to City of the Damned (↖️, ↗️ or ↘️) 📏 ➕ OR ↙️ 📐
 
 ### 4. City of the Damned ⚪
@@ -465,13 +465,12 @@ information contained within the above sources.
     - to Halls of Pain ↗️, ↘️ or ↙️
       - L1 ⚪ ❔
       - to Halls of Vaught ❔ (3 possible routes)
-        - L1 🛡️ _Kill Nihlathak_ 📐 (Spawns in tile preceded by "eyes" on wall)
-- to Uber Bosses 🔴
+        - L1 🛡️ 🗝️ _Nihlathak_ 📐 (Spawns in tile preceded by "eyes" on wall)
 - to Bloody Foothills 🏃
 
 ### 2. Bloody Foothills
 
-- 🛡️ _Kill Shenk the Overseer_ (Directly before map exit)
+- 🛡️ _Shenk the Overseer_ (Directly before map exit)
 - to Frigid Highlands ↖️ ➕
 
 ### 3. Frigid Highlands ⚪
