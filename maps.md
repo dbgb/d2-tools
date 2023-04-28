@@ -436,7 +436,7 @@ information contained within the above sources.
 ### 5. River of Flame ⚪
 
 - ⚪ ↗️
-- 🛡️ _Activate, then attack, Hellforge_ (90° to ⚪)
+- 🛡️ _Activate and attack Hellforge_ (90° to ⚪)
 - to Chaos Sanctuary ↗️
 
 ### 6. Chaos Sanctuary
