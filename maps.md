@@ -126,7 +126,7 @@ information contained within the above sources.
 | --------- | :----: |
 | Left      |   ⬅️    |
 | Right     |   ➡️    |
-| Straight  |        |
+| Straight  |   ⬆️    |
 
 > N.B. Orientation is relative to the direction of travel away from the map
 > entrance tile, _unless otherwise specified_.
