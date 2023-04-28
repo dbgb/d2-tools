@@ -82,15 +82,17 @@ information contained within the above sources.
 
 ### Points of Interest
 
-| Object             | Symbol |
-| ------------------ | :----: |
-| Act Boss           |   💪    |
-| Chest              |   💰    |
-| Town               |   ⚒️    |
-| Quest (Essential)  |   ⚔️    |
-| Quest (Optional)   |   🛡️    |
-| Waypoint           |   ⚪    |
-| Waypoint (Level 2) |   🟡    |
+| Object                | Symbol |
+| --------------------- | :----: |
+| Town                  |   ⚒️    |
+| Quest (Essential)     |   ⚔️    |
+| Quest (Optional)      |   🛡️    |
+| Act Boss              |   💪    |
+| Key Boss (Hell Only)  |   🗝️    |
+| Uber / Mini Uber Boss |   🔥    |
+| Chest                 |   💰    |
+| Waypoint              |   ⚪    |
+| Waypoint (Level 2)    |   🟡    |
 
 ### Locations
 
@@ -141,7 +143,7 @@ information contained within the above sources.
 
 ### 1. Rogue Encampment ⚪ ⚒️
 
-- to Secret Cow Level 🔴
+- to Moo Moo Farm 🔴 ([Secret Cow Level Guide][6])
 - to Blood Moor 🏃
 
 ### 2. Blood Moor
@@ -166,7 +168,7 @@ information contained within the above sources.
 
 ### 4. Stony Field ⚪
 
-- to Tristram 🔴 (Access after retrieving [The Scroll of Inifuss](#6-dark-wood-))
+- to Tristram 🔴 (After retrieving [The Scroll of Inifuss](#6-dark-wood-))
   - L1 ⚔️ _Rescue Deckard Cain_
 - to Underground Passage 📏 or 🏃
 
@@ -452,7 +454,13 @@ information contained within the above sources.
 
 ### 1. Harrogath ⚪ ⚒️
 
-- to Nihlathak's Temple 🔴 (Access after [Freeing Anya](#5-crystalline-passage-))
+- to Mini Uber Boss Zones 🔴 (After farming [Key Bosses][4])
+  - Matron's Den ⬅️ 🔥 _Uber Andariel_
+  - Forgotten Sands ➕ 🔥 _Uber Duriel_
+  - Furnace of Pain ❔ (Follow bridge direction) 🔥 _Uber Izual_
+- to Uber Tristram 🔴 (After killing the three [Mini Ubers][5])
+  - 🔥🔥🔥 _Uber Mephisto, Uber Diablo & Uber Baal_
+- to Nihlathak's Temple 🔴 (After [Freeing Anya](#5-crystalline-passage-))
   - to Halls of Anguish ↗️
     - to Halls of Pain ↗️, ↘️ or ↙️
       - L1 ⚪ ❔
@@ -536,3 +544,6 @@ information contained within the above sources.
 [1]: https://maxroll.gg/d2/resources/map-reading "How to Read D2 Maps: Teo1904"
 [2]: https://www.youtube.com/watch?v=iaAmrldC3c4 "D2 Map Guide: MrLlama"
 [3]: https://www.youtube.com/watch?v=J1EFUYGk4CA "D2 Map Guide: WithNoFiller"
+[4]: https://diablo2.diablowiki.net/Pandemonium_Event#Keys "Pandemonium Event Guide: diablowiki"
+[5]: https://maxroll.gg/d2/meta/ubers-explained "Hellfire Torch Farming Guide: Teo1904"
+[6]: https://www.icy-veins.com/d2/secret-cow-level-farming-guide "Secret Cow Level Farming Guide: Icy Veins"
