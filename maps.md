@@ -511,7 +511,7 @@ information contained within the above sources.
 
 ### 9. Arreat Summit
 
-> Required level \- Normal: 20, Nightmare: 40, Hell: 60
+> Minimum level \- Normal: 20, Nightmare: 40, Hell: 60
 
 - ⚔️ _Defeat the Ancients_
 - to Worldstone Keep 🏃
