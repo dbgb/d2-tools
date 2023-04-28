@@ -168,7 +168,7 @@ information contained within the above sources.
 
 ### 4. Stony Field ⚪
 
-- to Tristram 🔴 (After retrieving [The Scroll of Inifuss](#6-dark-wood-))
+- to Tristram 🔴 (After [The Scroll of Inifuss](#6-dark-wood-))
   - L1 ⚔️ _Rescue Deckard Cain_
 - to Underground Passage 📏 or 🏃
 
@@ -255,7 +255,7 @@ information contained within the above sources.
 - to Stony Tomb 🟢 ❓
   - to L2 ⬅️
     - L2 💰 ⬅️
-- to Dry Hills 📐 (Not on same side as map entrance)
+- to Dry Hills 📐 (Not same side as entrance)
 
 ### 3. Dry Hills ⚪
 
@@ -264,7 +264,7 @@ information contained within the above sources.
   - to L2 ⬅️
     - to L3 ⬅️, ➡️ of WP
       - L3 ⬅️ ⚔️ _Horadric Cube_
-- to Far Oasis 📐 (Not on same side as map entrance)
+- to Far Oasis 📐 (Not same side as entrance)
 
 ### 4. Far Oasis ⚪
 
@@ -272,7 +272,7 @@ information contained within the above sources.
   - to L2 ➡️
     - to L3 ➡️
       - L3 ⬆️ ⚔️ _Staff of Kings_
-- to Lost City 📐 (Not on same side as map entrance)
+- to Lost City 📐 (Not same side as entrance)
 
 ### 5. Lost City ⚪
 
@@ -307,7 +307,7 @@ information contained within the above sources.
 
 - to False Tomb 🏃
   - L1 💰 ⬅️
-- to Tal Rasha's Tomb 🏃 (Refer to quest log symbol for real tomb)
+- to Tal Rasha's Tomb 🏃 (Quest log symbol)
 
 ### 11. Tal Rasha's Tomb
 
@@ -340,8 +340,8 @@ information contained within the above sources.
 >
 > Following the north riverbank is a decent strategy to find exits.
 
-- 🛡️ _Jade Figurine_ (Kill first spawned unique outside of Kurast Docks)
-- to Arachnid Lair 🟢 ❔ (Side camp w/ ⚪)
+- 🛡️ _Jade Figurine_ (First unique mob outside of town)
+- to Arachnid Lair 🟢 ❔ (Side camp with ⚪)
   - L1 💰 ↙️ 📐
 - to Spider Cavern 🟢 ❔
   - L1 💰 ↙️ 📏 ➕ ⚔️ _Khalim's Eye_
@@ -354,7 +354,7 @@ information contained within the above sources.
 ### 3. Flayer Jungle ⚪
 
 - to Flayer Dungeon 🟢
-  - 🛡️ _The Gidbinn_ (Activate altar outside of dungeon)
+  - 🛡️ _The Gidbinn_ (Altar outside of dungeon)
   - to L2 ⬅️
     - to L3 ⬅️
       - L3 ⚔️ _Khalim's Brain_
@@ -362,7 +362,7 @@ information contained within the above sources.
   - to L2 ⬅️
     - to L3 ⬅️
       - L3 💰
-- to Lower Kurast 📏 (Row 6 w/ gold piles)
+- to Lower Kurast 📏 (Row 6, after gold piles)
 
 ### 4. Lower Kurast ⚪
 
@@ -380,7 +380,7 @@ information contained within the above sources.
   - to L2 ➡️ of 💰 📏
   - L2 ⚔️ _Khalim's Heart_
   - to Upper Kurast 📐
-- to Upper Kurast ↗️ 📏 (Opposite diagonal from entrance)
+- to Upper Kurast ↗️ 📏 (Diagonal from entrance)
 
 ### 6. Upper Kurast ⚪
 
@@ -425,8 +425,8 @@ information contained within the above sources.
 
 ### 3. Plains of Despair
 
-- 🛡️ _Izual_ ❓ (Spawns on reverse "L" shaped lava tile)
-- to City of the Damned (↖️, ↗️ or ↘️) 📏 ➕ OR ↙️ 📐
+- 🛡️ _Izual_ ❓ (Spawns on "reverse L" lava tile)
+- to City of the Damned (↖️, ↗️ or ↘️) 📏 OR ↙️ 📐
 
 ### 4. City of the Damned ⚪
 
@@ -436,7 +436,7 @@ information contained within the above sources.
 ### 5. River of Flame ⚪
 
 - ⚪ ↗️
-- 🛡️ _Activate the Hellforge, then attack it twice_ (Perpendicular to ⚪)
+- 🛡️ _Activate, then attack, Hellforge_ (90° to ⚪)
 - to Chaos Sanctuary ↗️
 
 ### 6. Chaos Sanctuary
@@ -454,23 +454,28 @@ information contained within the above sources.
 
 ### 1. Harrogath ⚪ ⚒️
 
-- to Mini Uber Boss Zones 🔴 (After farming [Key Bosses][4])
-  - Matron's Den ⬅️ 🔥 _Uber Andariel_
-  - Forgotten Sands ➕ 🔥 _Uber Duriel_
-  - Furnace of Pain ❔ (Follow bridge direction) 🔥 _Uber Izual_
-- to Uber Tristram 🔴 (After killing the three [Mini Ubers][5])
-  - 🔥🔥🔥 _Uber Mephisto, Uber Diablo & Uber Baal_
+- to Mini Uber Boss Zones 🔴 (After [Key Bosses][4])
+  - Matron's Den
+    - ⬅️ 🔥 _Uber Andariel_
+  - Forgotten Sands
+    - ➕ 🔥 _Uber Duriel_
+  - Furnace of Pain
+    - 🏃 ❔ (Bridge direction) 🔥 _Uber Izual_
+- to Uber Tristram 🔴 (After [Mini Ubers][5])
+  - 🔥 _Uber Baal_
+  - 🔥 _Uber Diablo_
+  - 🔥 _Uber Mephisto_
 - to Nihlathak's Temple 🔴 (After [Freeing Anya](#5-crystalline-passage-))
   - to Halls of Anguish ↗️
     - to Halls of Pain ↗️, ↘️ or ↙️
       - L1 ⚪ ❔
       - to Halls of Vaught ❔ (3 possible routes)
-        - L1 🛡️ 🗝️ _Nihlathak_ 📐 (Spawns in tile preceded by "eyes" on wall)
+        - L1 🛡️ 🗝️ _Nihlathak_ 📐 ("Eye wall")
 - to Bloody Foothills 🏃
 
 ### 2. Bloody Foothills
 
-- 🛡️ _Shenk the Overseer_ (Directly before map exit)
+- 🛡️ _Shenk the Overseer_ (Directly before exit)
 - to Frigid Highlands ↖️ ➕
 
 ### 3. Frigid Highlands ⚪
@@ -478,7 +483,7 @@ information contained within the above sources.
 > Follow north wall if not using teleport.
 
 - ⚪ (At entrance)
-- 🛡️ _Rescue Barbarian soldiers at each of the three barricades_
+- 🛡️ _Rescue Barbarians at three barricades_
 - to Abaddon 🟢 🔴
 - to Arreat Plateau 📏 (Opposite of entrance)
 
@@ -518,7 +523,7 @@ information contained within the above sources.
 
 ### 9. Arreat Summit
 
-> Minimum level \- Normal: 20, Nightmare: 40, Hell: 60
+> Min. level \- Normal: 20, Nightmare: 40, Hell: 60
 
 - ⚔️ _Defeat the Ancients_
 - to Worldstone Keep 🏃
