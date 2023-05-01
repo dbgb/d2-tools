@@ -477,7 +477,7 @@ information contained within the above sources.
     - <span class="optional-content">➕ 🔥 **_Uber Duriel_**</span>
   - <span class="optional-content">Furnace of Pain</span>
     - <span class="optional-content">🏃 ❔ (Bridge direction) 🔥 **_Uber Izual_**</span>
--<span class="optional-content"> to Uber Tristram 🔴 (After [Mini Ubers][5])</span>
+- <span class="optional-content"> to Uber Tristram 🔴 (After [Mini Ubers][5])</span>
   - <span class="optional-content">🔥 **_Uber Baal_**</span>
   - <span class="optional-content">🔥 **_Uber Diablo_**</span>
   - <span class="optional-content">🔥 **_Uber Mephisto_**</span>
