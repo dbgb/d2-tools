@@ -340,9 +340,10 @@ information contained within the above sources.
 >
 > Following the north riverbank is a decent strategy to find exits.
 
-- 🛡️ _Jade Figurine_ (First unique mob outside of town)
-- to Arachnid Lair 🟢 ❔ (Side camp with ⚪)
-  - L1 💰 ↙️ 📐
+- <span class="optional-content">🛡️ _Jade Figurine_ (First unique mob outside
+  of town)</span>
+- <span class="optional-content">to Arachnid Lair 🟢 ❔ (Side camp with ⚪)</span>
+  - <span class="optional-content">L1 💰 ↙️ 📐</span>
 - to Spider Cavern 🟢 ❔
   - L1 💰 ↙️ 📏 ➕ ⚔️ _Khalim's Eye_
 - to Great Marsh ⚪ ❔
@@ -353,15 +354,15 @@ information contained within the above sources.
 
 ### 3. Flayer Jungle ⚪
 
+- <span class="optional-content">🛡️ _The Gidbinn_ (Altar outside of dungeon)</span>
 - to Flayer Dungeon 🟢
-  - 🛡️ _The Gidbinn_ (Altar outside of dungeon)
   - to L2 ⬅️
     - to L3 ⬅️
       - L3 ⚔️ _Khalim's Brain_
-- to Swampy Pit 🟢 (Next to ⚪)
-  - to L2 ⬅️
-    - to L3 ⬅️
-      - L3 💰
+- <span class="optional-content">to Swampy Pit 🟢 (Next to ⚪)</span>
+  - <span class="optional-content">to L2 ⬅️</span>
+    - <span class="optional-content">to L3 ⬅️</span>
+      - <span class="optional-content">L3 💰</span>
 - to Lower Kurast 📏 (Row 6, after gold piles)
 
 ### 4. Lower Kurast ⚪
@@ -373,9 +374,9 @@ information contained within the above sources.
 
 ### 5. Kurast Bazaar ⚪
 
-- to Disused Fane ❓
-- to Ruined Temple ❓
-  - L1 🛡️ _Lam Esen's Tome_
+- <span class="optional-content">to Disused Fane ❓</span>
+- <span class="optional-content">to Ruined Temple ❓</span>
+  - <span class="optional-content">L1 🛡️ _Lam Esen's Tome_</span>
 - to Sewers ➕
   - to L2 ➡️ of 💰 📏
   - L2 ⚔️ _Khalim's Heart_
@@ -385,20 +386,26 @@ information contained within the above sources.
 ### 6. Upper Kurast ⚪
 
 - to Sewers ➕ (As above)
-- to Forgotten Reliquary ❓
-- to Forgotten Temple ❓
+- <span class="optional-content">to Forgotten Reliquary ❓</span>
+- <span class="optional-content">to Forgotten Temple ❓</span>
 - to Kurast Causeway ↗️ ➕
 
 ### 7. Kurast Causeway
 
-- to Disused Reliquary 📏
-- to Ruined Fane 📏
+- <span class="optional-content">to Disused Reliquary 📏</span>
+- <span class="optional-content">to Ruined Fane 📏</span>
 - to Travincal ↗️ ➕
 
 ### 8. Travincal ⚪
 
+> Combine Khalim's Eye, Brain, Heart and Flail inside the Horadric Cube to create
+> Khalim's Will.
+>
+> Equip Khalim’s Will, then attack the Compelling Orb to open the entrance to
+> Durance of Hate.
+
 - ⚪ ↖️ ➕
-- 🛡️ _The High Council_ ↗️ ➕
+- <span class="optional-content">🛡️ _The High Council_ ↗️ ➕</span>
 - ⚔️ _Khalim's Flail_ ↗️ ➕
 - to Durance of Hate ↗️ ➕
 
