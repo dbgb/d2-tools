@@ -432,7 +432,7 @@ information contained within the above sources.
 
 ### 3. Plains of Despair
 
-- 🛡️ _Izual_ ❓ (Spawns on "reverse L" lava tile)
+- <span class="optional-content">🛡️ _Izual_ ❓ (Spawns on "reverse L" lava tile)</span>
 - to City of the Damned (↖️, ↗️ or ↘️) 📏 OR ↙️ 📐
 
 ### 4. City of the Damned ⚪
@@ -443,7 +443,8 @@ information contained within the above sources.
 ### 5. River of Flame ⚪
 
 - ⚪ ↗️
-- 🛡️ _Activate and attack Hellforge_ (90° to ⚪)
+- <span class="optional-content">🛡️ _Activate and attack Hellforge_ (90° to
+  ⚪)</span>
 - to Chaos Sanctuary ↗️
 
 ### 6. Chaos Sanctuary
