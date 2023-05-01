@@ -305,6 +305,14 @@ information contained within the above sources.
 
 ### 10. Canyon of the Magi ⚪
 
+> The symbol for the entrance to the true Tomb of Tal Rasha appears in the quest
+> log after completing the Arcane Sanctuary.
+>
+> Tomb entrances (with their accompanying symbols) are spaced evenly along the
+> top edge of the map in the same order as below, from left to right.
+>
+>![Tal Rasha's Tomb: Entrance Symbols](/assets/img/d2_tal-rasha-tomb-symbols.png)
+
 - <span class="optional-content">to False Tomb 🏃</span>
   - <span class="optional-content">L1 💰 ⬅️</span>
 - to Tal Rasha's Tomb 🏃 (Quest log symbol)
