@@ -462,28 +462,28 @@ information contained within the above sources.
 
 ### 1. Harrogath ⚪ ⚒️
 
-- to Mini Uber Boss Zones 🔴 (After [Key Bosses][4])
-  - Matron's Den
-    - ⬅️ 🔥 **_Uber Andariel_**
-  - Forgotten Sands
-    - ➕ 🔥 **_Uber Duriel_**
-  - Furnace of Pain
-    - 🏃 ❔ (Bridge direction) 🔥 **_Uber Izual_**
-- to Uber Tristram 🔴 (After [Mini Ubers][5])
-  - 🔥 **_Uber Baal_**
-  - 🔥 **_Uber Diablo_**
-  - 🔥 **_Uber Mephisto_**
-- to Nihlathak's Temple 🔴 (After [Freeing Anya](#5-crystalline-passage-))
-  - to Halls of Anguish ↗️
-    - to Halls of Pain ↗️, ↘️ or ↙️
-      - L1 ⚪ ❔
-      - to Halls of Vaught ❔ (3 possible routes)
-        - L1 🛡️ 🗝️ _Nihlathak_ 📐 ("Eye wall")
+- <span class="optional-content">to Mini Uber Boss Zones 🔴 (After [Key Bosses][4])</span>
+  - <span class="optional-content">Matron's Den</span>
+    - <span class="optional-content">⬅️ 🔥 **_Uber Andariel_**</span>
+  - <span class="optional-content">Forgotten Sands</span>
+    - <span class="optional-content">➕ 🔥 **_Uber Duriel_**</span>
+  - <span class="optional-content">Furnace of Pain</span>
+    - <span class="optional-content">🏃 ❔ (Bridge direction) 🔥 **_Uber Izual_**</span>
+-<span class="optional-content"> to Uber Tristram 🔴 (After [Mini Ubers][5])</span>
+  - <span class="optional-content">🔥 **_Uber Baal_**</span>
+  - <span class="optional-content">🔥 **_Uber Diablo_**</span>
+  - <span class="optional-content">🔥 **_Uber Mephisto_**</span>
+- <span class="optional-content">to Nihlathak's Temple 🔴 (After [Freeing Anya](#5-crystalline-passage-))</span>
+  - <span class="optional-content">to Halls of Anguish ↗️</span>
+    - <span class="optional-content">to Halls of Pain ↗️, ↘️ or ↙️</span>
+      - <span class="optional-content">L1 ⚪ ❔</span>
+      - <span class="optional-content">to Halls of Vaught ❔ (3 possible routes)</span>
+        - <span class="optional-content">L1 🛡️ 🗝️ _Nihlathak_ 📐 ("Eye wall")</span>
 - to Bloody Foothills 🏃
 
 ### 2. Bloody Foothills
 
-- 🛡️ _Shenk the Overseer_ (Directly before exit)
+- <span class="optional-content">🛡️ _Shenk the Overseer_ (Directly before exit)</span>
 - to Frigid Highlands ↖️ ➕
 
 ### 3. Frigid Highlands ⚪
@@ -491,8 +491,8 @@ information contained within the above sources.
 > Follow north wall if not using teleport.
 
 - ⚪ (At entrance)
-- 🛡️ _Rescue Barbarians at three barricades_
-- to Abaddon 🟢 🔴
+- <span class="optional-content">🛡️ _Rescue Barbarians at three barricades_</span>
+- <span class="optional-content">to Abaddon 🟢 🔴</span>
 - to Arreat Plateau 📏 (Opposite of entrance)
 
 ### 4. Arreat Plateau ⚪
@@ -500,33 +500,33 @@ information contained within the above sources.
 > Follow north wall if not using teleport.
 
 - ⚪ (At entrance)
-- to Pit of Acheron 🟢 🔴
+- <span class="optional-content">to Pit of Acheron 🟢 🔴</span>
 - to Crystalline Passage 📏 (Opposite of entrance)
 
 ### 5. Crystalline Passage ⚪
 
 - ⚪ ➡️
-- to Frozen River 🟢 ⬆️
-  - L1 🛡️ _Free Anya from the Prison of Ice_
+- <span class="optional-content">to Frozen River 🟢 ⬆️</span>
+  - <span class="optional-content">L1 🛡️ _Free Anya from the Prison of Ice_</span>
 - to Glacial Trail ⬅️, ⬆️ of ⚪
 
 ### 6. Glacial Trail ⚪
 
 - ⚪ (Parallel to entrance)
-- to Drifter Cavern 🟢 ⬆️, ⬆️ of ⚪
+- <span class="optional-content">to Drifter Cavern 🟢 ⬆️, ⬆️ of ⚪</span>
 - to Frozen Tundra ⬅️, ⬅️ of ⚪
 
 ### 7. Frozen Tundra ⚪
 
 > Follow north wall if not using teleport.
 
-- to Infernal Pit 🟢 🔴
+- <span class="optional-content">to Infernal Pit 🟢 🔴</span>
 - to Ancient's Way 📏 (Opposite of entrance)
 
 ### 8. Ancient's Way ⚪
 
 - ⚪ ➡️
-- to Icy Cellar 🟢 ⬆️, ➡️ of WP
+- <span class="optional-content">to Icy Cellar 🟢 ⬆️, ➡️ of WP</span>
 - to Arreat Summit ⬅️, ⬆️ of WP
 
 ### 9. Arreat Summit
