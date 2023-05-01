@@ -143,7 +143,7 @@ information contained within the above sources.
 
 ### 1. Rogue Encampment ⚪ ⚒️
 
-- <span class="optional-content">to Moo Moo Farm 🔴</span> ([Secret Cow Level Guide][6])
+- <span class="optional-content">to Moo Moo Farm 🔴 ([Secret Cow Level Guide][6])</span>
 - to Blood Moor 🏃
 
 ### 2. Blood Moor
@@ -243,18 +243,18 @@ information contained within the above sources.
 ### 1. Lut Gholein ⚪ ⚒️
 
 - to Harem 🏃
-- to Sewer 🟡 🏃 (North and south entrances)
-  - 🟡 ⬅️
-  - to L2 (Usually nearest to south entrance)
-    - to L3 ⬆️, ⬅️ of WP
-      - L3 🛡️ 💰 _Radament_
+- <span class="optional-content">to Sewer 🟡 🏃 (North and south entrances)</span>
+  - <span class="optional-content">🟡 ⬅️</span>
+  - <span class="optional-content">to L2 (Usually nearest to south entrance)</span>
+    - <span class="optional-content">to L3 ⬆️, ⬅️ of WP</span>
+      - <span class="optional-content">L3 🛡️ 💰 _Radament_</span>
 - to Rocky Waste 🏃
 
 ### 2. Rocky Waste
 
-- to Stony Tomb 🟢 ❓
-  - to L2 ⬅️
-    - L2 💰 ⬅️
+- <span class="optional-content">to Stony Tomb 🟢 ❓</span>
+  - <span class="optional-content">to L2 ⬅️</span>
+    - <span class="optional-content">L2 💰 ⬅️</span>
 - to Dry Hills 📐 (Not same side as entrance)
 
 ### 3. Dry Hills ⚪
@@ -276,8 +276,8 @@ information contained within the above sources.
 
 ### 5. Lost City ⚪
 
-- to Ancient Tunnels 🟢 ❓
-  - L1 💰 ⬅️
+- <span class="optional-content">to Ancient Tunnels 🟢 ❓</span>
+  - <span class="optional-content">L1 💰 ⬅️</span>
 - to Valley of Snakes 📐 (Not ↙️)
 
 ### 6. Valley of Snakes
@@ -305,8 +305,8 @@ information contained within the above sources.
 
 ### 10. Canyon of the Magi ⚪
 
-- to False Tomb 🏃
-  - L1 💰 ⬅️
+- <span class="optional-content">to False Tomb 🏃</span>
+  - <span class="optional-content">L1 💰 ⬅️</span>
 - to Tal Rasha's Tomb 🏃 (Quest log symbol)
 
 ### 11. Tal Rasha's Tomb
