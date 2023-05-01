@@ -3,6 +3,8 @@
 
 @import "{{ site.theme }}";
 
+// Globals
+
 $breakpoint-tablet: 900px;
 
 body {
@@ -19,6 +21,14 @@ body {
   }
 }
 
+// Styling for optional content
+
+li span.optional-content {
+  opacity: 0.7;
+  font-size: 0.9em;
+}
+
+// GH Pages wraps the page body in a single section block
 section {
   max-width: 100%;
   padding: 0;
@@ -50,7 +60,7 @@ section {
   ol,
   pre,
   dl {
-    margin: 5px 0 15px;
+    margin: 5px 0 12px;
   }
 
   menu,

@@ -1,4 +1,4 @@
-# Diablo 2: Map Notes <!-- omit in toc -->
+# D2: Map Notes <!-- omit in toc -->
 
 ## Table of Contents <!-- omit in toc -->
 
@@ -143,27 +143,27 @@ information contained within the above sources.
 
 ### 1. Rogue Encampment ⚪ ⚒️
 
-- to Moo Moo Farm 🔴 ([Secret Cow Level Guide][6])
+- <span class="optional-content">to Moo Moo Farm 🔴</span> ([Secret Cow Level Guide][6])
 - to Blood Moor 🏃
 
 ### 2. Blood Moor
 
-- to Den of Evil 🟢 🏃
-  - L1 🛡️ _Cleanse The Den of Evil_
+- <span class="optional-content">to Den of Evil 🟢 🏃</span>
+  - <span class="optional-content">L1 🛡️ _Cleanse The Den of Evil_</span>
 - to Cold Plains 🏃
 
 ### 3. Cold Plains ⚪
 
-- 🛡️ _Read the Moldy Tome_  ❓
-- to Burial Grounds 📐
-  - L1 🛡️ _Blood Raven_ ➕
-  - to Crypt 🏃
-    - L1 ⬅️ 💰
-  - to Mausoleum 🏃
-    - L1 ⬅️ 💰
-- to Cave 🟢 🏃
-  - to L2 ⬅️
-    - L2 💰
+- <span class="optional-content">🛡️ _Read the Moldy Tome_ ❓</span>
+- <span class="optional-content">to Burial Grounds 📐</span>
+  - <span class="optional-content">L1 🛡️ _Blood Raven_ ➕</span>
+  - <span class="optional-content">to Crypt 🏃</span>
+    - <span class="optional-content">L1 ⬅️ 💰</span>
+  - <span class="optional-content">to Mausoleum 🏃</span>
+    - <span class="optional-content">L1 ⬅️ 💰</span>
+- <span class="optional-content">to Cave 🟢 🏃</span>
+  - <span class="optional-content">to L2 ⬅️</span>
+    - <span class="optional-content">L2 💰</span>
 - to Stony Field 📏
 
 ### 4. Stony Field ⚪
@@ -174,8 +174,8 @@ information contained within the above sources.
 
 ### 5. Underground Passage
 
-- to L2 ⬅️
-  - L2 💰
+- <span class="optional-content">to L2 ⬅️</span>
+  - <span class="optional-content">L2 💰</span>
 - to Dark Wood ⬆️
 
 ### 6. Dark Wood ⚪
@@ -185,19 +185,19 @@ information contained within the above sources.
 
 ### 7. Black Marsh ⚪
 
-- to Forgotten Tower 📏 ❔
-  - to L2/L3/L4/L5 ⬅️
-    - L5 🛡️ 🗝️ _The Countess_
-- to Hole 🟢 ❓
-  - to L2 ⬅️
-    - L2 💰
+- <span class="optional-content">to Forgotten Tower 📏 ❔</span>
+  - <span class="optional-content">to L2/L3/L4/L5 ⬅️</span>
+    - <span class="optional-content">L5 🛡️ 🗝️ _The Countess_</span>
+- <span class="optional-content">to Hole 🟢 ❓</span>
+  - <span class="optional-content">to L2 ⬅️</span>
+    - <span class="optional-content">L2 💰</span>
 - to Tamoe Highland 🏃 ❔ (Not ↙️)
 
 ### 8. Tamoe Highland
 
-- to The Pit 🏃 from Outer Cloister WP
-  - to L2 ⬅️
-    - L2 💰
+- <span class="optional-content">to The Pit 🏃 from Outer Cloister WP</span>
+  - <span class="optional-content">to L2 ⬅️</span>
+    - <span class="optional-content">L2 💰</span>
 - to Outer Cloister ↗️ 📏
 
 ### 9. Outer Cloister ⚪
@@ -209,7 +209,7 @@ information contained within the above sources.
 
 ### 10. Barracks
 
-- 🛡️ _Horadric Malus_ ⬆️ or ⬅️
+- <span class="optional-content">🛡️ _Horadric Malus_ ⬆️ or ⬅️</span>
 - to Jail ⬆️ or ⬅️
 
 ### 11. Jail ⚪
