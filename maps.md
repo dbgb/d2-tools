@@ -504,7 +504,8 @@ information contained within the above sources.
 > Follow north wall if not using teleport.
 
 - ⚪ (At entrance)
-- <span class="optional-content">🛡️ _Rescue Barbarians at three barricades_</span>
+- <span class="optional-content">🛡️ _Rescue 3 barbarian groups at barricade
+  pens_ ❔</span>
 - <span class="optional-content">to Abaddon 🟢 🔴</span>
 - to Arreat Plateau 📏 (Opposite of entrance)
 
