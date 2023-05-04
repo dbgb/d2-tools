@@ -3,10 +3,12 @@
 ## Table of Contents <!-- omit in toc -->
 
 - [Preface](#preface)
-- [Map Symbols](#map-symbols)
-  - [Points of Interest](#points-of-interest)
-  - [Locations](#locations)
-  - [Orientation](#orientation)
+- [Key](#key)
+  - [Map Symbols](#map-symbols)
+    - [Points of Interest](#points-of-interest)
+    - [Locations](#locations)
+    - [Orientation](#orientation)
+  - [Act Overview Colours](#act-overview-colours)
 - [Act 1](#act-1)
   - [Overview](#overview)
   - [1. Rogue Encampment ⚪ ⚒️](#1-rogue-encampment--️)
@@ -83,9 +85,11 @@ Detailed video guides discussing D2 map strategies can be found [here][2] and
 The following material aims to provide an _at a glance_ reference to the dense
 information contained within the above sources.
 
-## Map Symbols
+## Key
 
-### Points of Interest
+### Map Symbols
+
+#### Points of Interest
 
 | Object                | Symbol |
 | --------------------- | :----: |
@@ -99,7 +103,7 @@ information contained within the above sources.
 | Waypoint              |   ⚪    |
 | Waypoint (Level 2)    |   🟡    |
 
-### Locations
+#### Locations
 
 | Type               | Symbol |
 | ------------------ | :----: |
@@ -127,7 +131,7 @@ information contained within the above sources.
 >| (↘️ or ↖️) 📐 |       BR or TL corner        |
 >|      ↘️ 📏 ➕ | In the centre of the BR edge |
 
-### Orientation
+#### Orientation
 
 | Direction | Symbol |
 | --------- | :----: |
@@ -139,6 +143,13 @@ information contained within the above sources.
 > entrance tile, _unless otherwise specified_.
 >
 > Guidance on how to read map tiles can be found [here](#preface).
+
+### Act Overview Colours
+
+The colour code used to describe the map blocks in each act overview graphic is
+shown below:
+
+![Act Overviews Key](/assets/img/d2_maps-00-key.png)
 
 ---
 
