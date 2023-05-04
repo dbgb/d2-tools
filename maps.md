@@ -300,7 +300,12 @@ information contained within the above sources.
 
 ### 9. Arcane Sanctuary ⚪
 
-- ⚔️ 🗝️ _The Summoner_ ❓
+> To open the exit portal to the next zone \- locate The Summoner at the end of
+> one of the four winding paths, then click on Horazon's Journal in the middle
+> of his spawning tile.
+
+- <span class="optional-content">🛡️ 🗝️ _The Summoner_ ❓</span>
+- ⚔️ _Read Horazon's Journal_ ❓
 - to Canyon of the Magi 🔴
 
 ### 10. Canyon of the Magi ⚪
