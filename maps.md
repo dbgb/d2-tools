@@ -8,7 +8,7 @@
     - [Points of Interest](#points-of-interest)
     - [Locations](#locations)
     - [Orientation](#orientation)
-  - [Act Overview Colours](#act-overview-colours)
+  - [Map Blocks](#map-blocks)
 - [Act 1](#act-1)
   - [Overview](#overview)
   - [1. Rogue Encampment ⚪ ⚒️](#1-rogue-encampment--️)
@@ -144,10 +144,10 @@ information contained within the above sources.
 >
 > Guidance on how to read map tiles can be found [here](#preface).
 
-### Act Overview Colours
+### Map Blocks
 
-The colour code used to describe the map blocks in each act overview graphic is
-shown below:
+The colour code used to add extra information to the map blocks in each of the
+act overview graphics is as follows:
 
 ![Act Overviews Key](/assets/img/d2_maps-00-key.png)
 
