@@ -8,6 +8,7 @@
   - [Locations](#locations)
   - [Orientation](#orientation)
 - [Act 1](#act-1)
+  - [Overview](#overview)
   - [1. Rogue Encampment ⚪ ⚒️](#1-rogue-encampment--️)
   - [2. Blood Moor](#2-blood-moor)
   - [3. Cold Plains ⚪](#3-cold-plains-)
@@ -23,6 +24,7 @@
   - [13. Cathedral](#13-cathedral)
   - [14. Catacombs 🟡](#14-catacombs-)
 - [Act 2](#act-2)
+  - [Overview](#overview-1)
   - [1. Lut Gholein ⚪ ⚒️](#1-lut-gholein--️)
   - [2. Rocky Waste](#2-rocky-waste)
   - [3. Dry Hills ⚪](#3-dry-hills-)
@@ -36,6 +38,7 @@
   - [11. Tal Rasha's Tomb](#11-tal-rashas-tomb)
   - [12. Tal Rasha's Chamber](#12-tal-rashas-chamber)
 - [Act 3](#act-3)
+  - [Overview](#overview-2)
   - [1. Kurast Docks ⚪ ⚒️](#1-kurast-docks--️)
   - [2. Spider Forest ⚪](#2-spider-forest-)
   - [3. Flayer Jungle ⚪](#3-flayer-jungle-)
@@ -46,6 +49,7 @@
   - [8. Travincal ⚪](#8-travincal-)
   - [9. Durance of Hate 🟡](#9-durance-of-hate-)
 - [Act 4](#act-4)
+  - [Overview](#overview-3)
   - [1. Pandemonium Fort ⚪ ⚒️](#1-pandemonium-fort--️)
   - [2. Outer Steppes](#2-outer-steppes)
   - [3. Plains of Despair](#3-plains-of-despair)
@@ -53,6 +57,7 @@
   - [5. River of Flame ⚪](#5-river-of-flame-)
   - [6. Chaos Sanctuary](#6-chaos-sanctuary)
 - [Act 5](#act-5)
+  - [Overview](#overview-4)
   - [1. Harrogath ⚪ ⚒️](#1-harrogath--️)
   - [2. Bloody Foothills](#2-bloody-foothills)
   - [3. Frigid Highlands ⚪](#3-frigid-highlands-)
@@ -138,6 +143,8 @@ information contained within the above sources.
 ---
 
 ## Act 1
+
+### Overview
 
 ![Act 1 Overview](/assets/img/d2_maps-01-act-1.png)
 
@@ -237,6 +244,8 @@ information contained within the above sources.
 ---
 
 ## Act 2
+
+### Overview
 
 ![Act 2 Overview](/assets/img/d2_maps-02-act-2.png)
 
@@ -338,6 +347,8 @@ information contained within the above sources.
 
 ## Act 3
 
+### Overview
+
 ![Act 3 Overview](/assets/img/d2_maps-03-act-3.png)
 
 ### 1. Kurast Docks ⚪ ⚒️
@@ -433,6 +444,8 @@ information contained within the above sources.
 
 ## Act 4
 
+### Overview
+
 ![Act 4 Overview](/assets/img/d2_maps-04-act-4.png)
 
 ### 1. Pandemonium Fort ⚪ ⚒️
@@ -470,6 +483,8 @@ information contained within the above sources.
 ---
 
 ## Act 5
+
+### Overview
 
 ![Act 5 Overview](/assets/img/d2_maps-05-act-5.png)
 
