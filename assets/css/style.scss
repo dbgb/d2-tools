@@ -76,6 +76,11 @@ section {
     list-style-image: none;
   }
 
+  p > img,
+  table {
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.4);
+  }
+
   table {
     margin: 0 auto 20px auto;
     width: 100%;
